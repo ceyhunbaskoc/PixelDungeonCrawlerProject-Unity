@@ -1,4 +1,4 @@
-# 🎮 Pixel Dungeon Crawler 
+# 🎮 Pixel Dungeon Crawler Project
 
 [![Unity Version](https://img.shields.io/badge/Unity-6+-black.svg?logo=unity)]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://img.shields.io/badge/License-MIT-yellow.svg)]
@@ -9,6 +9,7 @@
 
 ## 📸 Screenshots 
 **Procedural dungeon generation :**
+
 ![Map Screenshot 1](Assets/Screenshots/1.png) 
 
 ![Map Screenshot 2](Assets/Screenshots/2.png) 
@@ -16,6 +17,7 @@
 ![Map Screenshot 3](Assets/Screenshots/3.png)
 
 **In-game Screenshots (The game is not finished yet, this is just a gameplay demo!!!):**
+
 ![Ingame Screenshot 1](Assets/Screenshots/4.png) 
 
 ![Ingame Screenshot 2](Assets/Screenshots/5.png)
