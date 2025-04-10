@@ -1,0 +1,1218 @@
+fileFormatVersion: 2
+guid: 2bc8b0e619e85d640a894085b92a8466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8318427138206611197
+    second: Explosion_gas_circle10_0
+  - first:
+      213: 7543817513978300794
+    second: Explosion_gas_circle10_1
+  - first:
+      213: 7748354475895061997
+    second: Explosion_gas_circle10_2
+  - first:
+      213: -7991434619152381678
+    second: Explosion_gas_circle10_3
+  - first:
+      213: 3892709491905722549
+    second: Explosion_gas_circle10_4
+  - first:
+      213: 9159093009716605727
+    second: Explosion_gas_circle10_5
+  - first:
+      213: -1051648952884436177
+    second: Explosion_gas_circle10_6
+  - first:
+      213: 7982202707211315244
+    second: Explosion_gas_circle10_7
+  - first:
+      213: 6012662704052449299
+    second: Explosion_gas_circle10_8
+  - first:
+      213: 6477104224738920123
+    second: Explosion_gas_circle10_9
+  - first:
+      213: -3630509455997912740
+    second: Explosion_gas_circle10_10
+  - first:
+      213: 8202118808649944960
+    second: Explosion_gas_circle10_11
+  - first:
+      213: 2856349751408680015
+    second: Explosion_gas_circle10_12
+  - first:
+      213: -6051380540081518216
+    second: Explosion_gas_circle10_13
+  - first:
+      213: 2453152845221246574
+    second: Explosion_gas_circle10_14
+  - first:
+      213: 867630279166879368
+    second: Explosion_gas_circle10_15
+  - first:
+      213: -1476319505935214707
+    second: Explosion_gas_circle10_16
+  - first:
+      213: 6219608863053906871
+    second: Explosion_gas_circle10_17
+  - first:
+      213: 3960305468734305395
+    second: Explosion_gas_circle10_18
+  - first:
+      213: -8596254798174276070
+    second: Explosion_gas_circle10_19
+  - first:
+      213: 1379160162333822704
+    second: Explosion_gas_circle10_20
+  - first:
+      213: 8690021178009478828
+    second: Explosion_gas_circle10_21
+  - first:
+      213: 5109728422304255120
+    second: Explosion_gas_circle10_22
+  - first:
+      213: -3439870482469169974
+    second: Explosion_gas_circle10_23
+  - first:
+      213: -6739867570351024154
+    second: Explosion_gas_circle10_24
+  - first:
+      213: 8395149676281502781
+    second: Explosion_gas_circle10_25
+  - first:
+      213: 7877046043511261674
+    second: Explosion_gas_circle10_26
+  - first:
+      213: 6791008753888904025
+    second: Explosion_gas_circle10_27
+  - first:
+      213: 9157778648933888471
+    second: Explosion_gas_circle10_28
+  - first:
+      213: -5005972598619195369
+    second: Explosion_gas_circle10_29
+  - first:
+      213: -1305283728794485292
+    second: Explosion_gas_circle10_30
+  - first:
+      213: -4154655846291142342
+    second: Explosion_gas_circle10_31
+  - first:
+      213: 8685257039674396283
+    second: Explosion_gas_circle10_32
+  - first:
+      213: -3050292077610031892
+    second: Explosion_gas_circle10_33
+  - first:
+      213: 8370315710780293882
+    second: Explosion_gas_circle10_34
+  - first:
+      213: -9171102512848575600
+    second: Explosion_gas_circle10_35
+  - first:
+      213: 3561213995815303254
+    second: Explosion_gas_circle10_36
+  - first:
+      213: 7346602669235596079
+    second: Explosion_gas_circle10_37
+  - first:
+      213: 3025847619884521436
+    second: Explosion_gas_circle10_38
+  - first:
+      213: 1803089460748826393
+    second: Explosion_gas_circle10_39
+  - first:
+      213: -5225618253325163590
+    second: Explosion_gas_circle10_40
+  - first:
+      213: -654737201416680157
+    second: Explosion_gas_circle10_41
+  - first:
+      213: 7723483171715522770
+    second: Explosion_gas_circle10_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 190
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c93937920f8c80800000000000000
+      internalID: -8318427138206611197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 197
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a790c036f0601b860800000000000000
+      internalID: 7543817513978300794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 198
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded7881e75fa78b60800000000000000
+      internalID: 7748354475895061997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 203
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219c9a7ed88b81190800000000000000
+      internalID: -7991434619152381678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8f4de88aea50630800000000000000
+      internalID: 3892709491905722549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 171
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13fbecb092ab1f70800000000000000
+      internalID: 9159093009716605727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 193
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2369e669dac761f0800000000000000
+      internalID: -1051648952884436177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 186
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ed78121b76ce60800000000000000
+      internalID: 7982202707211315244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 164
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31039457fd4417350800000000000000
+      internalID: 6012662704052449299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 177
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6ceb8a9fb43e950800000000000000
+      internalID: 6477104224738920123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 169
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593c8192e6dd9dc0800000000000000
+      internalID: -3630509455997912740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 169
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f412b8997c3d170800000000000000
+      internalID: 8202118808649944960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c5dfe17fac3a720800000000000000
+      internalID: 2856349751408680015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 158
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879cabbd57d250ca0800000000000000
+      internalID: -6051380540081518216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 161
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66b62fe3895b0220800000000000000
+      internalID: 2453152845221246574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 146
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866d1a54217a0c00800000000000000
+      internalID: 867630279166879368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 141
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8750c13b3f038be0800000000000000
+      internalID: -1476319505935214707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 127
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3033cde4d705650800000000000000
+      internalID: 6219608863053906871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f1f957d4d5f630800000000000000
+      internalID: 3960305468734305395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 122
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1633145ec7f3b880800000000000000
+      internalID: -8596254798174276070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 136
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe074c4cd2c32310800000000000000
+      internalID: 1379160162333822704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 122
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca660ed3838299870800000000000000
+      internalID: 8690021178009478828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 133
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c89267de669e640800000000000000
+      internalID: 5109728422304255120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4d21b75002340d0800000000000000
+      internalID: -3439870482469169974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 120
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e75d04772e2772a0800000000000000
+      internalID: -6739867570351024154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 112
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c9ef2b620918470800000000000000
+      internalID: 8395149676281502781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae982e664a3e05d60800000000000000
+      internalID: 7877046043511261674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953cd1a3b728e3e50800000000000000
+      internalID: 6791008753888904025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 107
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d17c554927f61f70800000000000000
+      internalID: 9157778648933888471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b6ffb176378ab0800000000000000
+      internalID: -5005972598619195369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd7b164d53b2ede0800000000000000
+      internalID: -1305283728794485292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3901d52582b756c0800000000000000
+      internalID: -4154655846291142342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 92
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ec0c8d24b388870800000000000000
+      internalID: 8685257039674396283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 87
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4addc348f2ba5d0800000000000000
+      internalID: -3050292077610031892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af24ee68ac5592470800000000000000
+      internalID: 8370315710780293882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 54
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093e7faead2b9b080800000000000000
+      internalID: -9171102512848575600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 61
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65878b5d249fb6130800000000000000
+      internalID: 3561213995815303254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b69b5243064f560800000000000000
+      internalID: 7346602669235596079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 75
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd79dafe068fdf920800000000000000
+      internalID: 3025847619884521436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 37
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173f26bf4cd50910800000000000000
+      internalID: 1803089460748826393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3a1c692efda77b0800000000000000
+      internalID: -5225618253325163590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d4358fbf7e9e6f0800000000000000
+      internalID: -654737201416680157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_gas_circle10_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0afce16035f2b60800000000000000
+      internalID: 7723483171715522770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

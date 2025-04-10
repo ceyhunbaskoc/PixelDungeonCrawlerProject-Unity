@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Room
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: d271dab7ad67f7c44beebd6fec5bd1df, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: levelGenerator
+    value: 
+    objectReference: {fileID: 8905241880433184296, guid: bded875a980a82d438dce0e2972373b9, type: 3}
+  - target: {fileID: 0}
+    propertyPath: wallsTilemap
+    value: 
+    objectReference: {fileID: 6922150232668420434, guid: b5ca9f9691de85e4382ca8c6b01d8ec1, type: 3}
+  - target: {fileID: 0}
+    propertyPath: groundTilemap
+    value: 
+    objectReference: {fileID: 5434514269868194450, guid: b5ca9f9691de85e4382ca8c6b01d8ec1, type: 3}
+  - target: {fileID: 0}
+    propertyPath: Tilemap
+    value: 
+    objectReference: {fileID: 5639891469642959776, guid: b5ca9f9691de85e4382ca8c6b01d8ec1, type: 3}
+  - target: {fileID: 0}
+    propertyPath: corridor
+    value: 
+    objectReference: {fileID: 1968819330445389666, guid: 9194c3dfb450a114585a10c6ac347b98, type: 3}
+  - target: {fileID: 0}
+    propertyPath: leftWallTile
+    value: 
+    objectReference: {fileID: 11400000, guid: 2a5140fed596f39449ac5795908e62b6, type: 2}
+  - target: {fileID: 0}
+    propertyPath: rightWallTile
+    value: 
+    objectReference: {fileID: 11400000, guid: 0c59a7735b427244ebe07ad301cf25f1, type: 2}
+  - target: {fileID: 0}
+    propertyPath: upWallTile
+    value: 
+    objectReference: {fileID: 11400000, guid: 7389bf32a5d75ca4f86b5b9b6eddc0b1, type: 2}
+  - target: {fileID: 0}
+    propertyPath: downWallTile
+    value: 
+    objectReference: {fileID: 11400000, guid: 59126c1ce7ba61a4a9c9ec27e20e3cee, type: 2}
+  - target: {fileID: 0}
+    propertyPath: corridorDistance
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gridPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gridPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
+  m_CoupledType:
+    m_NativeTypeID: 0
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_CoupledProperties: []

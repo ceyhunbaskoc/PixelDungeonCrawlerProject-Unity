@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 3419aa37c94f7a240b81b7517b571c38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7290031821649177422
+    second: Explosion_blue_circle7_0
+  - first:
+      213: 2589148370013111043
+    second: Explosion_blue_circle7_1
+  - first:
+      213: -2535977001034557839
+    second: Explosion_blue_circle7_2
+  - first:
+      213: 3364232866638735439
+    second: Explosion_blue_circle7_3
+  - first:
+      213: -7928066925647154168
+    second: Explosion_blue_circle7_4
+  - first:
+      213: -7512284020418256639
+    second: Explosion_blue_circle7_5
+  - first:
+      213: -6101517552401505023
+    second: Explosion_blue_circle7_6
+  - first:
+      213: -8206196965225547672
+    second: Explosion_blue_circle7_7
+  - first:
+      213: 4454642826179597654
+    second: Explosion_blue_circle7_8
+  - first:
+      213: 4869244050596821845
+    second: Explosion_blue_circle7_9
+  - first:
+      213: -4969824872467277864
+    second: Explosion_blue_circle7_10
+  - first:
+      213: -8444563278550915503
+    second: Explosion_blue_circle7_11
+  - first:
+      213: -4110716840871226878
+    second: Explosion_blue_circle7_12
+  - first:
+      213: -5199728073492557383
+    second: Explosion_blue_circle7_13
+  - first:
+      213: -2870203318423999779
+    second: Explosion_blue_circle7_14
+  - first:
+      213: -1297464240103160862
+    second: Explosion_blue_circle7_15
+  - first:
+      213: 2102148734928893889
+    second: Explosion_blue_circle7_16
+  - first:
+      213: -6206301916933922832
+    second: Explosion_blue_circle7_17
+  - first:
+      213: 6349042682479629579
+    second: Explosion_blue_circle7_18
+  - first:
+      213: 1053798508265280544
+    second: Explosion_blue_circle7_19
+  - first:
+      213: -8234673679334770527
+    second: Explosion_blue_circle7_20
+  - first:
+      213: 2775295883436515272
+    second: Explosion_blue_circle7_21
+  - first:
+      213: -7890619012269684589
+    second: Explosion_blue_circle7_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_blue_circle7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b61ba41556b2560800000000000000
+      internalID: 7290031821649177422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d281c1d24f8933d4696e1dd605a20824
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_blue_circle7_0: 7290031821649177422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

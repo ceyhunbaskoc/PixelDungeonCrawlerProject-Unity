@@ -1,0 +1,2543 @@
+fileFormatVersion: 2
+guid: c88c5ec7fff2d20469e8e52f4c683e63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6852907036925771512
+    second: mer_human_2_0
+  - first:
+      213: 2243387535901308842
+    second: mer_human_2_1
+  - first:
+      213: -1755738759650347074
+    second: mer_human_2_2
+  - first:
+      213: 5463879546996267920
+    second: mer_human_2_3
+  - first:
+      213: 9027530279255435928
+    second: mer_human_2_4
+  - first:
+      213: -8916080656645438238
+    second: mer_human_2_5
+  - first:
+      213: 9051405210488963469
+    second: mer_human_2_6
+  - first:
+      213: -1214807571902598003
+    second: mer_human_2_7
+  - first:
+      213: 1610625986270360543
+    second: mer_human_2_8
+  - first:
+      213: -8855741374237737297
+    second: mer_human_2_9
+  - first:
+      213: 6318595118899800692
+    second: mer_human_2_10
+  - first:
+      213: 801780795931379741
+    second: mer_human_2_11
+  - first:
+      213: 1449059005484676360
+    second: mer_human_2_12
+  - first:
+      213: -1437757287903235475
+    second: mer_human_2_13
+  - first:
+      213: -5894614317531182401
+    second: mer_human_2_14
+  - first:
+      213: 4830589611653275132
+    second: mer_human_2_15
+  - first:
+      213: -6191658548912077684
+    second: mer_human_2_16
+  - first:
+      213: -2102205709362914404
+    second: mer_human_2_17
+  - first:
+      213: -3576440695219070840
+    second: mer_human_2_18
+  - first:
+      213: -6091954847279038760
+    second: mer_human_2_19
+  - first:
+      213: -9188553544792586610
+    second: mer_human_2_20
+  - first:
+      213: 111493157374623889
+    second: mer_human_2_21
+  - first:
+      213: -8455825636734409657
+    second: mer_human_2_22
+  - first:
+      213: 3305606010788945546
+    second: mer_human_2_23
+  - first:
+      213: -3021237433304799420
+    second: mer_human_2_24
+  - first:
+      213: -7746828730219646897
+    second: mer_human_2_25
+  - first:
+      213: 6009058016602814074
+    second: mer_human_2_26
+  - first:
+      213: -2117175006085097961
+    second: mer_human_2_27
+  - first:
+      213: 4474497988638350177
+    second: mer_human_2_28
+  - first:
+      213: 6880378333400929198
+    second: mer_human_2_29
+  - first:
+      213: 1671271108436632771
+    second: mer_human_2_30
+  - first:
+      213: 2641142984152336351
+    second: mer_human_2_31
+  - first:
+      213: 8199747631862370767
+    second: mer_human_2_32
+  - first:
+      213: 2959913562444126184
+    second: mer_human_2_33
+  - first:
+      213: 8762595630340567674
+    second: mer_human_2_34
+  - first:
+      213: -2390001319096220765
+    second: mer_human_2_35
+  - first:
+      213: -1278622230028234445
+    second: mer_human_2_36
+  - first:
+      213: 6507308754108409296
+    second: mer_human_2_37
+  - first:
+      213: 2556762864502746585
+    second: mer_human_2_38
+  - first:
+      213: -5690465843322185522
+    second: mer_human_2_39
+  - first:
+      213: -5423947124102073839
+    second: mer_human_2_40
+  - first:
+      213: 8761414609963501281
+    second: mer_human_2_41
+  - first:
+      213: -7744574950360724243
+    second: mer_human_2_42
+  - first:
+      213: 5457875091381586375
+    second: mer_human_2_43
+  - first:
+      213: 6000080957043967662
+    second: mer_human_2_44
+  - first:
+      213: 7724232533298697210
+    second: mer_human_2_45
+  - first:
+      213: -6168509292276093780
+    second: mer_human_2_46
+  - first:
+      213: -6147076354637332859
+    second: mer_human_2_47
+  - first:
+      213: 2900332053738172605
+    second: mer_human_2_48
+  - first:
+      213: -7841317346930684774
+    second: mer_human_2_49
+  - first:
+      213: -5135000256040559798
+    second: mer_human_2_50
+  - first:
+      213: -5619546950361822399
+    second: mer_human_2_51
+  - first:
+      213: 209494218158768141
+    second: mer_human_2_52
+  - first:
+      213: -4387531143395140271
+    second: mer_human_2_53
+  - first:
+      213: 8681397581351389525
+    second: mer_human_2_54
+  - first:
+      213: 6624263589795122520
+    second: mer_human_2_55
+  - first:
+      213: -3475360095033081259
+    second: mer_human_2_56
+  - first:
+      213: 8326816526860478161
+    second: mer_human_2_57
+  - first:
+      213: -7588055200985847366
+    second: mer_human_2_58
+  - first:
+      213: -2178005105162125478
+    second: mer_human_2_59
+  - first:
+      213: 31575913829024296
+    second: mer_human_2_60
+  - first:
+      213: 2147518374999602817
+    second: mer_human_2_61
+  - first:
+      213: 2563468438348539723
+    second: mer_human_2_62
+  - first:
+      213: -3445939431959692539
+    second: mer_human_2_63
+  - first:
+      213: -4146500443468786651
+    second: mer_human_2_64
+  - first:
+      213: 7715200023754979141
+    second: mer_human_2_65
+  - first:
+      213: -516115994559093187
+    second: mer_human_2_66
+  - first:
+      213: -2105987154729185236
+    second: mer_human_2_67
+  - first:
+      213: -3935099635456228393
+    second: mer_human_2_68
+  - first:
+      213: 1402672358901832338
+    second: mer_human_2_69
+  - first:
+      213: 1291519391224461499
+    second: mer_human_2_70
+  - first:
+      213: -6693662429074259060
+    second: mer_human_2_71
+  - first:
+      213: -5025549238874563233
+    second: mer_human_2_72
+  - first:
+      213: 8548274353109519623
+    second: mer_human_2_73
+  - first:
+      213: 7747173156451244177
+    second: mer_human_2_74
+  - first:
+      213: -1268688476855650919
+    second: mer_human_2_75
+  - first:
+      213: 1703822647911481817
+    second: mer_human_2_76
+  - first:
+      213: 7602392013307217567
+    second: mer_human_2_77
+  - first:
+      213: 6282857786248771090
+    second: mer_human_2_78
+  - first:
+      213: 7322402074634495783
+    second: mer_human_2_79
+  - first:
+      213: 8570887695635610714
+    second: mer_human_2_80
+  - first:
+      213: -3961884674550560036
+    second: mer_human_2_81
+  - first:
+      213: 5557561871051753392
+    second: mer_human_2_82
+  - first:
+      213: 3688629480844510258
+    second: mer_human_2_83
+  - first:
+      213: -8834515188121663826
+    second: mer_human_2_84
+  - first:
+      213: -2754883329247933577
+    second: mer_human_2_85
+  - first:
+      213: -6988064773922541328
+    second: mer_human_2_86
+  - first:
+      213: -3363683500249444431
+    second: mer_human_2_87
+  - first:
+      213: 8728993000187155930
+    second: mer_human_2_88
+  - first:
+      213: 6570158954154168265
+    second: mer_human_2_89
+  - first:
+      213: 344787886871682710
+    second: mer_human_2_90
+  - first:
+      213: -2276804584549446307
+    second: mer_human_2_91
+  - first:
+      213: 1158587952781454147
+    second: mer_human_2_92
+  - first:
+      213: -8113589004886548539
+    second: mer_human_2_93
+  - first:
+      213: -5949490477427254934
+    second: mer_human_2_94
+  - first:
+      213: 1904782521781206255
+    second: mer_human_2_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mer_human_2_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 503
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801c341bb5595e0a0800000000000000
+      internalID: -6852907036925771512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 503
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7bfe2f31d122f10800000000000000
+      internalID: 2243387535901308842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 503
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7f7a086ec52a7e0800000000000000
+      internalID: -1755738759650347074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 503
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b1c36cf7993db40800000000000000
+      internalID: 5463879546996267920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 503
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6a1685fa384d70800000000000000
+      internalID: 9027530279255435928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 503
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4cae7d1e7b34480800000000000000
+      internalID: -8916080656645438238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 503
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d818051251d0d9d70800000000000000
+      internalID: 9051405210488963469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 503
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d847a4e13f2242fe0800000000000000
+      internalID: -1214807571902598003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 503
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd378a11dc71a5610800000000000000
+      internalID: 1610625986270360543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 503
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae74ddc3261a1580800000000000000
+      internalID: -8855741374237737297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 503
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a2a8588c820b750800000000000000
+      internalID: 6318595118899800692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 503
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d184839c26f702b00800000000000000
+      internalID: 801780795931379741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 431
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805be70fc771c1410800000000000000
+      internalID: 1449059005484676360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 431
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d627c4d3d5f0c0ce0800000000000000
+      internalID: -1437757287903235475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 431
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4f9b528f123ea0800000000000000
+      internalID: -5894614317531182401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 431
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd194288a3b90340800000000000000
+      internalID: 4830589611653275132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 431
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84c595ca5fc21aa0800000000000000
+      internalID: -6191658548912077684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 431
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b10a89b0773d2e0800000000000000
+      internalID: -2102205709362914404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 431
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8885731f22eed5ec0800000000000000
+      internalID: -3576440695219070840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 431
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deb63cc757057ba0800000000000000
+      internalID: -6091954847279038760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 431
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e864bfaeb33bb7080800000000000000
+      internalID: -9188553544792586610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 431
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19083389f6a1c8100800000000000000
+      internalID: 111493157374623889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 431
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744edcf526fd6aa80800000000000000
+      internalID: -8455825636734409657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 431
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e9878272fdfdd20800000000000000
+      internalID: 3305606010788945546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 359
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44721c5cf886216d0800000000000000
+      internalID: -3021237433304799420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 359
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b777705cbd7490800000000000000
+      internalID: -7746828730219646897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 359
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76f252cd66746350800000000000000
+      internalID: 6009058016602814074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 359
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71656fa9c884e92e0800000000000000
+      internalID: -2117175006085097961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 359
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b1df8b63c981e30800000000000000
+      internalID: 4474497988638350177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 359
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea318a2f3a30c7f50800000000000000
+      internalID: 6880378333400929198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 359
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c42db5e73c813710800000000000000
+      internalID: 1671271108436632771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 359
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd74a6bfc8937a420800000000000000
+      internalID: 2641142984152336351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 359
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d10de60b5bc170800000000000000
+      internalID: 8199747631862370767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 359
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7d757e3b9b31920800000000000000
+      internalID: 2959913562444126184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 359
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72f6d0bc4efa9970800000000000000
+      internalID: 8762595630340567674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_35
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 359
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a30e8a867205ded0800000000000000
+      internalID: -2390001319096220765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 287
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331df313bdb614ee0800000000000000
+      internalID: -1278622230028234445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 287
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5eb6ca5da9e4a50800000000000000
+      internalID: 6507308754108409296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 287
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dda89967427b7320800000000000000
+      internalID: 2556762864502746585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 287
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8994207776701b0800000000000000
+      internalID: -5690465843322185522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 287
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f463f3d44ab4b0800000000000000
+      internalID: -5423947124102073839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 287
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6cac4fa2cc69970800000000000000
+      internalID: 8761414609963501281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec4c5b7d1eb58490800000000000000
+      internalID: -7744574950360724243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_43
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 287
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c980428a744ebb40800000000000000
+      internalID: 5457875091381586375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_44
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 287
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6013437d1944350800000000000000
+      internalID: 6000080957043967662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 287
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d8c5709cf13b60800000000000000
+      internalID: 7724232533298697210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 287
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacef281b7d056aa0800000000000000
+      internalID: -6168509292276093780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_47
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 287
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e73a2cf9231baa0800000000000000
+      internalID: -6147076354637332859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 215
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03eb1e2ac004820800000000000000
+      internalID: 2900332053738172605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 215
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c86150b6b0e2390800000000000000
+      internalID: -7841317346930684774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b99293970dcb8b0800000000000000
+      internalID: -5135000256040559798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 215
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bcd0182db5302b0800000000000000
+      internalID: -5619546950361822399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 215
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d000ad7a1e548e200800000000000000
+      internalID: 209494218158768141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_53
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 215
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d18f4dbab5c13c0800000000000000
+      internalID: -4387531143395140271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 215
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559826eaa158a7870800000000000000
+      internalID: 8681397581351389525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 215
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dca4853ac1eeb50800000000000000
+      internalID: 6624263589795122520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 215
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5524cf4286a05cfc0800000000000000
+      internalID: -3475360095033081259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_57
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 215
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ee59838bce8370800000000000000
+      internalID: 8326816526860478161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_58
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 215
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ee297fffc1b690800000000000000
+      internalID: -7588055200985847366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_59
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 215
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ff2db75eb26c1e0800000000000000
+      internalID: -2178005105162125478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 143
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822cc37502e207000800000000000000
+      internalID: 31575913829024296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 143
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186b97285948dcd10800000000000000
+      internalID: 2147518374999602817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47a0bc76f4439320800000000000000
+      internalID: 2563468438348539723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 143
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf78018509d20d0800000000000000
+      internalID: -3445939431959692539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 143
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5241b06d0dba476c0800000000000000
+      internalID: -4146500443468786651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 143
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54730037b85e11b60800000000000000
+      internalID: 7715200023754979141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d366869cc3366d8f0800000000000000
+      internalID: -516115994559093187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_67
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 143
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20d4dc37d706c2e0800000000000000
+      internalID: -2105987154729185236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_68
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 143
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3ccd80bb7b369c0800000000000000
+      internalID: -3935099635456228393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 143
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a5a98241b477310800000000000000
+      internalID: 1402672358901832338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_70
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 143
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb876762b066ce110800000000000000
+      internalID: 1291519391224461499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_71
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 143
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8386ac3c755b13a0800000000000000
+      internalID: -6693662429074259060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d95aff799a14ab0800000000000000
+      internalID: -5025549238874563233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcca3cb3291a670800000000000000
+      internalID: 8548274353109519623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198d7b380fc738b60800000000000000
+      internalID: 7747173156451244177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 71
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99533665d86b46ee0800000000000000
+      internalID: -1268688476855650919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d18709cba135a710800000000000000
+      internalID: 1703822647911481817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_77
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 71
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f968174c14f118960800000000000000
+      internalID: 7602392013307217567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 71
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b7ab5ed1313750800000000000000
+      internalID: 6282857786248771090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_79
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 71
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7272c2124e56e9560800000000000000
+      internalID: 7322402074634495783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 71
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c702cd2f8e1f670800000000000000
+      internalID: 8570887695635610714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_81
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 71
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda895421ee8409c0800000000000000
+      internalID: -3961884674550560036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_82
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 71
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b78b45931d602d40800000000000000
+      internalID: 5557561871051753392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_83
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 71
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23445c938f4a03330800000000000000
+      internalID: 3688629480844510258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea607316e3f756580800000000000000
+      internalID: -8834515188121663826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b08824530b4c9d0800000000000000
+      internalID: -2754883329247933577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f03deacc18650f90800000000000000
+      internalID: -6988064773922541328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_87
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf0ac69dabc151d0800000000000000
+      internalID: -3363683500249444431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_88
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5d60fa2ec932970800000000000000
+      internalID: 8728993000187155930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf063432c4ed2b50800000000000000
+      internalID: 6570158954154168265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_90
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e18df91cee8c400800000000000000
+      internalID: 344787886871682710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_91
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d03fa1b4a2760e0800000000000000
+      internalID: -2276804584549446307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34be596ca91241010800000000000000
+      internalID: 1158587952781454147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfd836a9cdb66f80800000000000000
+      internalID: -8113589004886548539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_94
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69116abee92f6da0800000000000000
+      internalID: -5949490477427254934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mer_human_2_95
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec34219c952f6a10800000000000000
+      internalID: 1904782521781206255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

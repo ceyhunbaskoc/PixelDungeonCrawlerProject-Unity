@@ -1,0 +1,6143 @@
+fileFormatVersion: 2
+guid: 482c27926ede9c54a8a0a99fe4f61656
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8075371177514243794
+    second: tf_atlantis_tiles_0
+  - first:
+      213: 443303873623105042
+    second: tf_atlantis_tiles_1
+  - first:
+      213: 4570882298006165102
+    second: tf_atlantis_tiles_2
+  - first:
+      213: 3299665280648318405
+    second: tf_atlantis_tiles_3
+  - first:
+      213: 587188482268507879
+    second: tf_atlantis_tiles_4
+  - first:
+      213: -5525715233507979502
+    second: tf_atlantis_tiles_5
+  - first:
+      213: -1202608361802249200
+    second: tf_atlantis_tiles_6
+  - first:
+      213: -3490288882196892231
+    second: tf_atlantis_tiles_7
+  - first:
+      213: 8618340818499662310
+    second: tf_atlantis_tiles_8
+  - first:
+      213: 5999331583829031175
+    second: tf_atlantis_tiles_9
+  - first:
+      213: -518925278002930727
+    second: tf_atlantis_tiles_10
+  - first:
+      213: 2887047156329080819
+    second: tf_atlantis_tiles_11
+  - first:
+      213: 8937043104529480748
+    second: tf_atlantis_tiles_12
+  - first:
+      213: -2729392760927111377
+    second: tf_atlantis_tiles_13
+  - first:
+      213: 5988496827714140789
+    second: tf_atlantis_tiles_14
+  - first:
+      213: 8380441517759100859
+    second: tf_atlantis_tiles_15
+  - first:
+      213: -3346180106041416254
+    second: tf_atlantis_tiles_16
+  - first:
+      213: 5876953552138582687
+    second: tf_atlantis_tiles_17
+  - first:
+      213: 2298922642179122193
+    second: tf_atlantis_tiles_18
+  - first:
+      213: 3258728837885602688
+    second: tf_atlantis_tiles_19
+  - first:
+      213: 5192443135006477563
+    second: tf_atlantis_tiles_20
+  - first:
+      213: -1085326296133716586
+    second: tf_atlantis_tiles_21
+  - first:
+      213: -4042221810285533171
+    second: tf_atlantis_tiles_22
+  - first:
+      213: 7898565984319167493
+    second: tf_atlantis_tiles_23
+  - first:
+      213: -9204788086150794149
+    second: tf_atlantis_tiles_24
+  - first:
+      213: -8931178786978964880
+    second: tf_atlantis_tiles_25
+  - first:
+      213: 655220913110774714
+    second: tf_atlantis_tiles_26
+  - first:
+      213: -8904161815397812206
+    second: tf_atlantis_tiles_27
+  - first:
+      213: 3930108038505642448
+    second: tf_atlantis_tiles_28
+  - first:
+      213: 5437577292237909074
+    second: tf_atlantis_tiles_29
+  - first:
+      213: -2237095719487861473
+    second: tf_atlantis_tiles_30
+  - first:
+      213: -4865871345167901282
+    second: tf_atlantis_tiles_31
+  - first:
+      213: -132473248119981555
+    second: tf_atlantis_tiles_32
+  - first:
+      213: -6001123101023257145
+    second: tf_atlantis_tiles_33
+  - first:
+      213: 4063388433574993932
+    second: tf_atlantis_tiles_34
+  - first:
+      213: 6126776277474945667
+    second: tf_atlantis_tiles_35
+  - first:
+      213: -8351213898011739573
+    second: tf_atlantis_tiles_36
+  - first:
+      213: -6312539195170050171
+    second: tf_atlantis_tiles_37
+  - first:
+      213: -7295116598401455289
+    second: tf_atlantis_tiles_38
+  - first:
+      213: -1200835108672513277
+    second: tf_atlantis_tiles_39
+  - first:
+      213: 7444615049593099124
+    second: tf_atlantis_tiles_40
+  - first:
+      213: 3653013511906351699
+    second: tf_atlantis_tiles_41
+  - first:
+      213: -305894848401399022
+    second: tf_atlantis_tiles_42
+  - first:
+      213: 7575049526173703044
+    second: tf_atlantis_tiles_43
+  - first:
+      213: -2323804141182457682
+    second: tf_atlantis_tiles_44
+  - first:
+      213: -8285540629147786934
+    second: tf_atlantis_tiles_45
+  - first:
+      213: 8329433106581432976
+    second: tf_atlantis_tiles_46
+  - first:
+      213: -3944871614291083205
+    second: tf_atlantis_tiles_47
+  - first:
+      213: 2358043009618585410
+    second: tf_atlantis_tiles_48
+  - first:
+      213: -3733870296437726158
+    second: tf_atlantis_tiles_49
+  - first:
+      213: 5107814724323875578
+    second: tf_atlantis_tiles_50
+  - first:
+      213: 1128486132610016495
+    second: tf_atlantis_tiles_51
+  - first:
+      213: 7224289165462191701
+    second: tf_atlantis_tiles_52
+  - first:
+      213: 1629500002974361910
+    second: tf_atlantis_tiles_53
+  - first:
+      213: -4000475440615473897
+    second: tf_atlantis_tiles_54
+  - first:
+      213: -280571758996053208
+    second: tf_atlantis_tiles_55
+  - first:
+      213: -124933147068377574
+    second: tf_atlantis_tiles_56
+  - first:
+      213: -1882178060025821843
+    second: tf_atlantis_tiles_57
+  - first:
+      213: 5939829912300681135
+    second: tf_atlantis_tiles_58
+  - first:
+      213: 9122358380343881451
+    second: tf_atlantis_tiles_59
+  - first:
+      213: -8315966112704967617
+    second: tf_atlantis_tiles_60
+  - first:
+      213: 2912264615618555794
+    second: tf_atlantis_tiles_61
+  - first:
+      213: -4033856320660402325
+    second: tf_atlantis_tiles_62
+  - first:
+      213: 210350881124859590
+    second: tf_atlantis_tiles_63
+  - first:
+      213: -2838660678254973982
+    second: tf_atlantis_tiles_64
+  - first:
+      213: -3809665397886858260
+    second: tf_atlantis_tiles_65
+  - first:
+      213: 1253061541458358245
+    second: tf_atlantis_tiles_66
+  - first:
+      213: 1328807103896597052
+    second: tf_atlantis_tiles_67
+  - first:
+      213: -8739204605182718090
+    second: tf_atlantis_tiles_68
+  - first:
+      213: 3903967234376073837
+    second: tf_atlantis_tiles_69
+  - first:
+      213: 4597852703928630943
+    second: tf_atlantis_tiles_70
+  - first:
+      213: -7501766529919992867
+    second: tf_atlantis_tiles_71
+  - first:
+      213: 3495213140656366366
+    second: tf_atlantis_tiles_72
+  - first:
+      213: -2447457453338900887
+    second: tf_atlantis_tiles_73
+  - first:
+      213: -6958687966573850841
+    second: tf_atlantis_tiles_74
+  - first:
+      213: -8640326922876932210
+    second: tf_atlantis_tiles_75
+  - first:
+      213: 7065223363439159131
+    second: tf_atlantis_tiles_76
+  - first:
+      213: -5857848605816172688
+    second: tf_atlantis_tiles_77
+  - first:
+      213: -7931421547243441318
+    second: tf_atlantis_tiles_78
+  - first:
+      213: -6869581848281008908
+    second: tf_atlantis_tiles_79
+  - first:
+      213: 811405602994012489
+    second: tf_atlantis_tiles_80
+  - first:
+      213: 3915816242001429350
+    second: tf_atlantis_tiles_81
+  - first:
+      213: 5525529816401288952
+    second: tf_atlantis_tiles_82
+  - first:
+      213: 3140068048522368636
+    second: tf_atlantis_tiles_83
+  - first:
+      213: 2147022171012622687
+    second: tf_atlantis_tiles_84
+  - first:
+      213: 1157432549510436532
+    second: tf_atlantis_tiles_85
+  - first:
+      213: -2151157404932078162
+    second: tf_atlantis_tiles_86
+  - first:
+      213: 3076487952140109532
+    second: tf_atlantis_tiles_87
+  - first:
+      213: 8225630349145158822
+    second: tf_atlantis_tiles_88
+  - first:
+      213: 3226507614489896813
+    second: tf_atlantis_tiles_89
+  - first:
+      213: 2638800315276818968
+    second: tf_atlantis_tiles_90
+  - first:
+      213: 1722794520501740186
+    second: tf_atlantis_tiles_91
+  - first:
+      213: -8997395786266374790
+    second: tf_atlantis_tiles_92
+  - first:
+      213: 8135430878868074169
+    second: tf_atlantis_tiles_93
+  - first:
+      213: 7525303176615212053
+    second: tf_atlantis_tiles_94
+  - first:
+      213: 5442478481570353133
+    second: tf_atlantis_tiles_95
+  - first:
+      213: -8520053053930446463
+    second: tf_atlantis_tiles_96
+  - first:
+      213: 516877159430058735
+    second: tf_atlantis_tiles_97
+  - first:
+      213: -6018824556775553642
+    second: tf_atlantis_tiles_98
+  - first:
+      213: -4599393303736359525
+    second: tf_atlantis_tiles_99
+  - first:
+      213: -3570052055071227649
+    second: tf_atlantis_tiles_100
+  - first:
+      213: -666162199057554026
+    second: tf_atlantis_tiles_101
+  - first:
+      213: -1967712766086544735
+    second: tf_atlantis_tiles_102
+  - first:
+      213: -8503000800209966013
+    second: tf_atlantis_tiles_103
+  - first:
+      213: -6400115189582729977
+    second: tf_atlantis_tiles_104
+  - first:
+      213: 2096375526846891584
+    second: tf_atlantis_tiles_105
+  - first:
+      213: 5365849681608614551
+    second: tf_atlantis_tiles_106
+  - first:
+      213: -8796413042008041785
+    second: tf_atlantis_tiles_107
+  - first:
+      213: -796372446447125716
+    second: tf_atlantis_tiles_108
+  - first:
+      213: 6062623633786410299
+    second: tf_atlantis_tiles_109
+  - first:
+      213: 4287484120072361570
+    second: tf_atlantis_tiles_110
+  - first:
+      213: -6617562560835484361
+    second: tf_atlantis_tiles_111
+  - first:
+      213: 7481994653012942483
+    second: tf_atlantis_tiles_112
+  - first:
+      213: -1190164710778532653
+    second: tf_atlantis_tiles_113
+  - first:
+      213: 6971055129728312474
+    second: tf_atlantis_tiles_114
+  - first:
+      213: 2668814620170451230
+    second: tf_atlantis_tiles_115
+  - first:
+      213: 7160792310135856561
+    second: tf_atlantis_tiles_116
+  - first:
+      213: 2395573443869609098
+    second: tf_atlantis_tiles_117
+  - first:
+      213: -6086381489858220587
+    second: tf_atlantis_tiles_118
+  - first:
+      213: -4621902849723880588
+    second: tf_atlantis_tiles_119
+  - first:
+      213: -9089485280106473702
+    second: tf_atlantis_tiles_120
+  - first:
+      213: 3969464701319467407
+    second: tf_atlantis_tiles_121
+  - first:
+      213: 465293445656337110
+    second: tf_atlantis_tiles_122
+  - first:
+      213: -897295144961225527
+    second: tf_atlantis_tiles_123
+  - first:
+      213: -534785636087218112
+    second: tf_atlantis_tiles_124
+  - first:
+      213: 1735742487941888678
+    second: tf_atlantis_tiles_125
+  - first:
+      213: -7829315792536562086
+    second: tf_atlantis_tiles_126
+  - first:
+      213: -6716140118637015551
+    second: tf_atlantis_tiles_127
+  - first:
+      213: -8303289730720994260
+    second: tf_atlantis_tiles_128
+  - first:
+      213: 3951087138671823304
+    second: tf_atlantis_tiles_129
+  - first:
+      213: -7288237285328149622
+    second: tf_atlantis_tiles_130
+  - first:
+      213: -6456256637089499947
+    second: tf_atlantis_tiles_131
+  - first:
+      213: 7712662498766479660
+    second: tf_atlantis_tiles_132
+  - first:
+      213: -7745855050813092725
+    second: tf_atlantis_tiles_133
+  - first:
+      213: -1980207060974725224
+    second: tf_atlantis_tiles_134
+  - first:
+      213: 3309256847137377849
+    second: tf_atlantis_tiles_135
+  - first:
+      213: 3430507472652901063
+    second: tf_atlantis_tiles_136
+  - first:
+      213: -4174641183045674093
+    second: tf_atlantis_tiles_137
+  - first:
+      213: 2424392724235830042
+    second: tf_atlantis_tiles_138
+  - first:
+      213: 8191951423158429660
+    second: tf_atlantis_tiles_139
+  - first:
+      213: -336117082058047614
+    second: tf_atlantis_tiles_140
+  - first:
+      213: -250038347851088212
+    second: tf_atlantis_tiles_141
+  - first:
+      213: -1860523699025708393
+    second: tf_atlantis_tiles_142
+  - first:
+      213: -8569850968219266047
+    second: tf_atlantis_tiles_143
+  - first:
+      213: 6092288702964045073
+    second: tf_atlantis_tiles_144
+  - first:
+      213: 4131066044796486493
+    second: tf_atlantis_tiles_145
+  - first:
+      213: 9218597520163366042
+    second: tf_atlantis_tiles_146
+  - first:
+      213: 3200831357263909774
+    second: tf_atlantis_tiles_147
+  - first:
+      213: 7839646480379001480
+    second: tf_atlantis_tiles_148
+  - first:
+      213: 2241148388886143274
+    second: tf_atlantis_tiles_149
+  - first:
+      213: 1706801995263656950
+    second: tf_atlantis_tiles_150
+  - first:
+      213: 3885990037442801251
+    second: tf_atlantis_tiles_151
+  - first:
+      213: -2987574540390730722
+    second: tf_atlantis_tiles_152
+  - first:
+      213: 823293398692662830
+    second: tf_atlantis_tiles_153
+  - first:
+      213: -5297656460805233579
+    second: tf_atlantis_tiles_154
+  - first:
+      213: -5419438821030501622
+    second: tf_atlantis_tiles_155
+  - first:
+      213: -9072984810465283529
+    second: tf_atlantis_tiles_156
+  - first:
+      213: 7716860819274926206
+    second: tf_atlantis_tiles_157
+  - first:
+      213: 629887574782793070
+    second: tf_atlantis_tiles_158
+  - first:
+      213: -1722225586914145287
+    second: tf_atlantis_tiles_159
+  - first:
+      213: 7824449377262300092
+    second: tf_atlantis_tiles_160
+  - first:
+      213: -3840803095345771633
+    second: tf_atlantis_tiles_161
+  - first:
+      213: -3710389221336793272
+    second: tf_atlantis_tiles_162
+  - first:
+      213: -1101706151516971766
+    second: tf_atlantis_tiles_163
+  - first:
+      213: -637280325884028222
+    second: tf_atlantis_tiles_164
+  - first:
+      213: 3450233631244842478
+    second: tf_atlantis_tiles_165
+  - first:
+      213: 2343203653118024093
+    second: tf_atlantis_tiles_166
+  - first:
+      213: -2635631694648909421
+    second: tf_atlantis_tiles_167
+  - first:
+      213: 6905998366966215340
+    second: tf_atlantis_tiles_168
+  - first:
+      213: 4580878421581171160
+    second: tf_atlantis_tiles_169
+  - first:
+      213: 3389909034627767716
+    second: tf_atlantis_tiles_170
+  - first:
+      213: -7442138691357576640
+    second: tf_atlantis_tiles_171
+  - first:
+      213: -3343798335246628128
+    second: tf_atlantis_tiles_172
+  - first:
+      213: 7549595385293717144
+    second: tf_atlantis_tiles_173
+  - first:
+      213: -1878903598345906180
+    second: tf_atlantis_tiles_174
+  - first:
+      213: 7618981815677100528
+    second: tf_atlantis_tiles_175
+  - first:
+      213: 5909690493946652828
+    second: tf_atlantis_tiles_176
+  - first:
+      213: 5581426763523880785
+    second: tf_atlantis_tiles_177
+  - first:
+      213: 6101279743837771881
+    second: tf_atlantis_tiles_178
+  - first:
+      213: 4074552480954064918
+    second: tf_atlantis_tiles_179
+  - first:
+      213: -7045333214188895364
+    second: tf_atlantis_tiles_180
+  - first:
+      213: 5621357804638642046
+    second: tf_atlantis_tiles_181
+  - first:
+      213: 1756363755016243332
+    second: tf_atlantis_tiles_182
+  - first:
+      213: 6766677426214574704
+    second: tf_atlantis_tiles_183
+  - first:
+      213: 2495621049362013255
+    second: tf_atlantis_tiles_184
+  - first:
+      213: -2746855077624606910
+    second: tf_atlantis_tiles_185
+  - first:
+      213: 5415453680516617209
+    second: tf_atlantis_tiles_186
+  - first:
+      213: 7003080009388909704
+    second: tf_atlantis_tiles_187
+  - first:
+      213: -1110704515870937618
+    second: tf_atlantis_tiles_188
+  - first:
+      213: 8526870663801730718
+    second: tf_atlantis_tiles_189
+  - first:
+      213: 7921292263554821967
+    second: tf_atlantis_tiles_190
+  - first:
+      213: -2167490971943649729
+    second: tf_atlantis_tiles_191
+  - first:
+      213: -8422606195012385473
+    second: tf_atlantis_tiles_192
+  - first:
+      213: -8065526724540896564
+    second: tf_atlantis_tiles_193
+  - first:
+      213: 2149132019792482219
+    second: tf_atlantis_tiles_194
+  - first:
+      213: 6478813410447014156
+    second: tf_atlantis_tiles_195
+  - first:
+      213: 5748015775792018307
+    second: tf_atlantis_tiles_196
+  - first:
+      213: -6464389734526121267
+    second: tf_atlantis_tiles_197
+  - first:
+      213: 2440004289190192405
+    second: tf_atlantis_tiles_198
+  - first:
+      213: -2292526834373613359
+    second: tf_atlantis_tiles_199
+  - first:
+      213: -7745020068193122632
+    second: tf_atlantis_tiles_200
+  - first:
+      213: -8734827493432152296
+    second: tf_atlantis_tiles_201
+  - first:
+      213: 59086346435066142
+    second: tf_atlantis_tiles_202
+  - first:
+      213: 3594570095782529374
+    second: tf_atlantis_tiles_203
+  - first:
+      213: 4534351777356875480
+    second: tf_atlantis_tiles_204
+  - first:
+      213: 479506028190488452
+    second: tf_atlantis_tiles_205
+  - first:
+      213: 5193997963933654659
+    second: tf_atlantis_tiles_206
+  - first:
+      213: 2172321181314999819
+    second: tf_atlantis_tiles_207
+  - first:
+      213: -3920387885939789418
+    second: tf_atlantis_tiles_208
+  - first:
+      213: 5704074385913912949
+    second: tf_atlantis_tiles_209
+  - first:
+      213: 7524186564155591492
+    second: tf_atlantis_tiles_210
+  - first:
+      213: -2939251973502924230
+    second: tf_atlantis_tiles_211
+  - first:
+      213: 97773100221808724
+    second: tf_atlantis_tiles_212
+  - first:
+      213: -6884215845853999709
+    second: tf_atlantis_tiles_213
+  - first:
+      213: 2316712144106459416
+    second: tf_atlantis_tiles_214
+  - first:
+      213: 3570428479193210851
+    second: tf_atlantis_tiles_215
+  - first:
+      213: 7425956938167903434
+    second: tf_atlantis_tiles_216
+  - first:
+      213: -6304861280060666784
+    second: tf_atlantis_tiles_217
+  - first:
+      213: 3081224908471390292
+    second: tf_atlantis_tiles_218
+  - first:
+      213: -6682527669896746813
+    second: tf_atlantis_tiles_219
+  - first:
+      213: 6523510281534486681
+    second: tf_atlantis_tiles_220
+  - first:
+      213: -2722052248716977952
+    second: tf_atlantis_tiles_221
+  - first:
+      213: -9039160265157467152
+    second: tf_atlantis_tiles_222
+  - first:
+      213: 5155415220690117342
+    second: tf_atlantis_tiles_223
+  - first:
+      213: 4642743051552980752
+    second: tf_atlantis_tiles_224
+  - first:
+      213: -2136813267781813803
+    second: tf_atlantis_tiles_225
+  - first:
+      213: -810116892384858641
+    second: tf_atlantis_tiles_226
+  - first:
+      213: 1458678490703266775
+    second: tf_atlantis_tiles_227
+  - first:
+      213: 4656567446455609403
+    second: tf_atlantis_tiles_228
+  - first:
+      213: -812222553967419965
+    second: tf_atlantis_tiles_229
+  - first:
+      213: 1259215691122750168
+    second: tf_atlantis_tiles_230
+  - first:
+      213: 4251357564055148023
+    second: tf_atlantis_tiles_231
+  - first:
+      213: 1726604086746072394
+    second: tf_atlantis_tiles_232
+  - first:
+      213: 7245653475629342951
+    second: tf_atlantis_tiles_233
+  - first:
+      213: -3932432246086436677
+    second: tf_atlantis_tiles_234
+  - first:
+      213: -522750661061737296
+    second: tf_atlantis_tiles_235
+  - first:
+      213: 4784496853094893307
+    second: tf_atlantis_tiles_236
+  - first:
+      213: -8450334971897639453
+    second: tf_atlantis_tiles_237
+  - first:
+      213: 6240514221961463505
+    second: tf_atlantis_tiles_238
+  - first:
+      213: 3125551956477952442
+    second: tf_atlantis_tiles_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 130
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e5def2b48eef80800000000000000
+      internalID: -8075371177514243794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 527
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e1cda368ee62600800000000000000
+      internalID: 443303873623105042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 532
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6657c28b390f6f30800000000000000
+      internalID: 4570882298006165102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 531
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd8bb22714cacd20800000000000000
+      internalID: 3299665280648318405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 527
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea0d540dc162800800000000000000
+      internalID: 587188482268507879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 514
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fcac88547b053b0800000000000000
+      internalID: -5525715233507979502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 512
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cccde011a7f4fe0800000000000000
+      internalID: -1202608361802249200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b82501c0009fc0800000000000000
+      internalID: -3490288882196892231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1fbefff4f7a9770800000000000000
+      internalID: 8618340818499662310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70939e72a48e14350800000000000000
+      internalID: 5999331583829031175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 512
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db1aa385386cc8f0800000000000000
+      internalID: -518925278002930727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 513
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ebcaa71ad01820800000000000000
+      internalID: 2887047156329080819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 501
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c75d36a51c60c70800000000000000
+      internalID: 8937043104529480748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 497
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ba60bebf3f1ad0800000000000000
+      internalID: -2729392760927111377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 499
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a747ae22a6b1350800000000000000
+      internalID: 5988496827714140789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 496
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb777fea82f4d4470800000000000000
+      internalID: 8380441517759100859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 496
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c52ce02ceaff81d0800000000000000
+      internalID: -3346180106041416254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 497
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab0b44e122f8150800000000000000
+      internalID: 5876953552138582687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114603d76f967ef10800000000000000
+      internalID: 2298922642179122193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 511
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b2e71dc94593d20800000000000000
+      internalID: 3258728837885602688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 511
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc0a7245834f0840800000000000000
+      internalID: 5192443135006477563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 512
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6953f85eb7520f0f0800000000000000
+      internalID: -1085326296133716586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 513
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08289e1ea427e7c0800000000000000
+      internalID: -4042221810285533171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 496
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cd3521ae75d9d60800000000000000
+      internalID: 7898565984319167493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 497
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54fb343106024080800000000000000
+      internalID: -9204788086150794149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 496
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a5d9076341e0480800000000000000
+      internalID: -8931178786978964880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 496
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3ff5fe2ffc71900800000000000000
+      internalID: 655220913110774714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 500
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218bd9251001e6480800000000000000
+      internalID: -8904161815397812206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 495
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9390c307c8a8630800000000000000
+      internalID: 3930108038505642448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 496
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c229edcb7267b40800000000000000
+      internalID: 5437577292237909074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d0167bb4d34f0e0800000000000000
+      internalID: -2237095719487861473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 496
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dd384cac3f87cb0800000000000000
+      internalID: -4865871345167901282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 501
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0af09f584c592ef0800000000000000
+      internalID: -132473248119981555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 481
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3e1eb55ab7bca0800000000000000
+      internalID: -6001123101023257145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 481
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c002ba7604e046830800000000000000
+      internalID: 4063388433574993932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 480
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a2f25309ea60550800000000000000
+      internalID: 6126776277474945667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 482
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a74b5d4378a1c80800000000000000
+      internalID: -8351213898011739573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 480
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fa8291c0b5568a0800000000000000
+      internalID: -6312539195170050171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 480
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba93dda1a82ca90800000000000000
+      internalID: -7295116598401455289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 465
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bd1c9b4d6c55fe0800000000000000
+      internalID: -1200835108672513277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 464
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4731680c1f5905760800000000000000
+      internalID: 7444615049593099124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 468
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a51e04f6c12b230800000000000000
+      internalID: 3653013511906351699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 454
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a96e814e31cbf0800000000000000
+      internalID: -305894848401399022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 453
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b1393e86bff1960800000000000000
+      internalID: 7575049526173703044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 483
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8ec35127030cfd0800000000000000
+      internalID: -2323804141182457682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 481
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41649b42b8d30d80800000000000000
+      internalID: -8285540629147786934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 488
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2a2a7747189370800000000000000
+      internalID: 8329433106581432976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 465
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3088a9ea200149c0800000000000000
+      internalID: -3944871614291083205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a861bf9379b020800000000000000
+      internalID: 2358043009618585410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 466
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234627f8fb0ae2cc0800000000000000
+      internalID: -3733870296437726158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 471
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa95dded6a92e640800000000000000
+      internalID: 5107814724323875578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 466
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4ac2c982039af00800000000000000
+      internalID: 1128486132610016495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 466
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eb31658b4d14460800000000000000
+      internalID: 7224289165462191701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 469
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639e8c68e952d9610800000000000000
+      internalID: 1629500002974361910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 469
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db07d38c47b78c0800000000000000
+      internalID: -4000475440615473897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823a803c8753b1cf0800000000000000
+      internalID: -280571758996053208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165154f6f5244ef0800000000000000
+      internalID: -124933147068377574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 455
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658020d60921e5e0800000000000000
+      internalID: -1882178060025821843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7fbeca5d38e6250800000000000000
+      internalID: 5939829912300681135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 452
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee64365d90299e70800000000000000
+      internalID: 9122358380343881451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc80061e0c79c80800000000000000
+      internalID: -8315966112704967617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 451
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f22e1fc317a6820800000000000000
+      internalID: 2912264615618555794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 449
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f82147c0dd408c0800000000000000
+      internalID: -4033856320660402325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 448
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce33ab03015be200800000000000000
+      internalID: 210350881124859590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 450
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb2eba272d0b98d0800000000000000
+      internalID: -2838660678254973982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 454
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb4bdd4189512bc0800000000000000
+      internalID: -3809665397886858260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 455
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef245c35d4c36110800000000000000
+      internalID: 1253061541458358245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b5ca450fd07210800000000000000
+      internalID: 1328807103896597052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 418
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f40a0c6bb18b680800000000000000
+      internalID: -8739204605182718090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 434
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6200cbf38dad2630800000000000000
+      internalID: 3903967234376073837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e3c3b7caadecf30800000000000000
+      internalID: 4597852703928630943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 418
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb343c461f54e790800000000000000
+      internalID: -7501766529919992867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 418
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a91f35dd718030800000000000000
+      internalID: 3495213140656366366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 432
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664ad2d962e80ed0800000000000000
+      internalID: -2447457453338900887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 420
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f8491c926cd6f90800000000000000
+      internalID: -6958687966573850841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 419
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f2daa2174671880800000000000000
+      internalID: -8640326922876932210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 417
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e4944737bc0260800000000000000
+      internalID: 7065223363439159131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 415
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f4f4eaabdb4bea0800000000000000
+      internalID: -5857848605816172688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 401
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53fca0102eede190800000000000000
+      internalID: -7931421547243441318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 401
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43db1a4b75aa0a0800000000000000
+      internalID: -6869581848281008908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 435
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941483fc811b24b00800000000000000
+      internalID: 811405602994012489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 415
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663433e0026c75630800000000000000
+      internalID: 3915816242001429350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 385
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe9d6ea710aeac40800000000000000
+      internalID: 5525529816401288952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 423
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76dabad043c39b20800000000000000
+      internalID: 3140068048522368636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5968140a41cbcd10800000000000000
+      internalID: 2147022171012622687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b65b0d75c6001010800000000000000
+      internalID: 1157432549510436532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 401
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5821fccbd8522e0800000000000000
+      internalID: -2151157404932078162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 400
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd684171e71e1ba20800000000000000
+      internalID: 3076487952140109532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a43876a83f472270800000000000000
+      internalID: 8225630349145158822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 401
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6763c2a49bd6cc20800000000000000
+      internalID: 3226507614489896813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 401
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a7341e7e6ee9420800000000000000
+      internalID: 2638800315276818968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 403
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92ee771d7898e710800000000000000
+      internalID: 1722794520501740186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d0fffd334d22380800000000000000
+      internalID: -8997395786266374790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 288
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beecade74bd6e070800000000000000
+      internalID: 8135430878868074169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 400
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b44d4e5f3f6860800000000000000
+      internalID: 7525303176615212053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def45bfe751978b40800000000000000
+      internalID: 5442478481570353133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1816efc73e0b2c980800000000000000
+      internalID: -8520053053930446463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 372
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe27758b9015c2700800000000000000
+      internalID: 516877159430058735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 368
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695cef764f6d87ca0800000000000000
+      internalID: -6018824556775553642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 370
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95eb7ca82cab20c0800000000000000
+      internalID: -4599393303736359525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 370
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff083d32290a47ec0800000000000000
+      internalID: -3570052055071227649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 370
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695a16a620151c6f0800000000000000
+      internalID: -666162199057554026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 369
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a209652aa741b4e0800000000000000
+      internalID: -1967712766086544735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c6f92b2d54ff980800000000000000
+      internalID: -8503000800209966013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 340
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70de653f4293e27a0800000000000000
+      internalID: -6400115189582729977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04608814f62d71d10800000000000000
+      internalID: 2096375526846891584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 338
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ac6e1bd3577a40800000000000000
+      internalID: 5365849681608614551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 338
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c65f7591fcdce580800000000000000
+      internalID: -8796413042008041785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 338
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3c94ba77b2f4f0800000000000000
+      internalID: -796372446447125716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 353
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b351ab2e214c22450800000000000000
+      internalID: 6062623633786410299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2669a055714308b30800000000000000
+      internalID: 4287484120072361570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 341
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7350a7a89e1b924a0800000000000000
+      internalID: -6617562560835484361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e5530ee7265d760800000000000000
+      internalID: 7481994653012942483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 320
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc07d5508fab7fe0800000000000000
+      internalID: -1190164710778532653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94ee1dc4b92eb060800000000000000
+      internalID: 6971055129728312474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19f0aec1c8890520800000000000000
+      internalID: 2668814620170451230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd1ff3aaae306360800000000000000
+      internalID: 7160792310135856561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c053bda59ce3120800000000000000
+      internalID: 2395573443869609098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 322
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddec713844d88ba0800000000000000
+      internalID: -6086381489858220587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 321
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba7d798d3bbdfb0800000000000000
+      internalID: -4621902849723880588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a179c10cb49abd180800000000000000
+      internalID: -9089485280106473702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 305
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81599e5d1f561730800000000000000
+      internalID: 3969464701319467407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 305
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad9a07ced057600800000000000000
+      internalID: 465293445656337110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 293
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc47e9d1da2c83f0800000000000000
+      internalID: -897295144961225527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 293
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0404a022c4f0498f0800000000000000
+      internalID: -534785636087218112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 293
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa345fa898961810800000000000000
+      internalID: 1735742487941888678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 288
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a569087a4cea85390800000000000000
+      internalID: -7829315792536562086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 289
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e04ee452a7bc2a0800000000000000
+      internalID: -6716140118637015551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ce93d8bf9c4cc80800000000000000
+      internalID: -8303289730720994260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 130
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c90621a1d415d630800000000000000
+      internalID: 3951087138671823304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a832241cdcafada90800000000000000
+      internalID: -7288237285328149622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 260
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4b5879bc4c666a0800000000000000
+      internalID: -6456256637089499947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 259
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e37fdda1e80b60800000000000000
+      internalID: 7712662498766479660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cce9eded1318490800000000000000
+      internalID: -7745855050813092725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 242
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89791ec6b24e484e0800000000000000
+      internalID: -1980207060974725224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 240
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e072cb197dced20800000000000000
+      internalID: 3309256847137377849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 255
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca9ccaee5c9b9f20800000000000000
+      internalID: 3430507472652901063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b98d356f1b016c0800000000000000
+      internalID: -4174641183045674093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134e14765c25a120800000000000000
+      internalID: 2424392724235830042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 229
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72d92aa68afa170800000000000000
+      internalID: 8191951423158429660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 225
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f3df07b4fd55bf0800000000000000
+      internalID: -336117082058047614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 227
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae3c18827fa78cf0800000000000000
+      internalID: -250038347851088212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 224
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a706f9d871e26e0800000000000000
+      internalID: -1860523699025708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d04d03f5c11980800000000000000
+      internalID: -8569850968219266047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 225
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1151c490c482c8450800000000000000
+      internalID: 6092288702964045073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 224
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53c5cf2eae745930800000000000000
+      internalID: 4131066044796486493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 239
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9462a43a990fef70800000000000000
+      internalID: 9218597520163366042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 239
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8395a32923ab6c20800000000000000
+      internalID: 3200831357263909774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab1ab00f40ccc60800000000000000
+      internalID: 7839646480379001480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 241
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a216f78e5982a1f10800000000000000
+      internalID: 2241148388886143274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 224
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f34e952f57cfa710800000000000000
+      internalID: 1706801995263656950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 225
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e2c76a95fcde530800000000000000
+      internalID: 3885990037442801251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 224
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14720cc8c00a86d0800000000000000
+      internalID: -2987574540390730722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e000febfcec6b00800000000000000
+      internalID: 823293398692662830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 228
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554a6af5481fa76b0800000000000000
+      internalID: -5297656460805233579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_155
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 223
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e38e0b194ac4b0800000000000000
+      internalID: -5419438821030501622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_156
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732b3b7b268461280800000000000000
+      internalID: -9072984810465283529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_157
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 209
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78030a870cc71b60800000000000000
+      internalID: 7716860819274926206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 209
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e655c57796fcdb800800000000000000
+      internalID: 629887574782793070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_159
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 208
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc4e414fc6918e0800000000000000
+      internalID: -1722225586914145287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_160
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 210
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbeebeb047069c60800000000000000
+      internalID: 7824449377262300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bc1b92fe9b2bac0800000000000000
+      internalID: -3840803095345771633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_162
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f38c369ac028cc0800000000000000
+      internalID: -3710389221336793272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_163
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 193
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd7ff9714f5b0f0800000000000000
+      internalID: -1101706151516971766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_164
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca56598bece727f0800000000000000
+      internalID: -637280325884028222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_165
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 196
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5747e1531b1ef20800000000000000
+      internalID: 3450233631244842478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_166
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 182
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995f74ce4bb48020800000000000000
+      internalID: 2343203653118024093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_167
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 181
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e0b910fa5c6bd0800000000000000
+      internalID: -2635631694648909421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_168
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2f27adce807df50800000000000000
+      internalID: 6905998366966215340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_169
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9099567ac829f30800000000000000
+      internalID: 4580878421581171160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 194
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad10e57e406b0f20800000000000000
+      internalID: 3389909034627767716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_171
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 199
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f0745a4638b890800000000000000
+      internalID: -7442138691357576640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 194
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea051b51217891d0800000000000000
+      internalID: -3343798335246628128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_173
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e3c52e00d85c860800000000000000
+      internalID: 7549595385293717144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_174
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 183
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79365d12bcce5e0800000000000000
+      internalID: -1878903598345906180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_175
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 178
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f12891289f0cb960800000000000000
+      internalID: 7618981815677100528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_176
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 180
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9861308130730250800000000000000
+      internalID: 5909690493946652828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 178
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f2bbd116357d40800000000000000
+      internalID: 5581426763523880785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_178
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 179
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9689cbed9991ca450800000000000000
+      internalID: 6101279743837771881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_179
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 177
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61024fdb4e7bb8830800000000000000
+      internalID: 4074552480954064918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_180
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 176
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73820cf4c2f93e90800000000000000
+      internalID: -7045333214188895364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_181
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 178
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f1bdcd323130e40800000000000000
+      internalID: 5621357804638642046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_182
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 162
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4884d12978bdf5810800000000000000
+      internalID: 1756363755016243332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9c2b844118ed50800000000000000
+      internalID: 6766677426214574704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_184
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 160
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cd53d3f1a32a220800000000000000
+      internalID: 2495621049362013255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_185
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 148
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f05b04cd531e9d0800000000000000
+      internalID: -2746855077624606910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 147
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f356cc1e6e872b40800000000000000
+      internalID: 5415453680516617209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_187
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 145
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e3452a20ff2160800000000000000
+      internalID: 7003080009388909704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_188
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2719a02cf590f0800000000000000
+      internalID: -1110704515870937618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_189
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 129
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96f99101b7855670800000000000000
+      internalID: 8526870663801730718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_190
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 129
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f2c3b48551eed60800000000000000
+      internalID: 7921292263554821967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_191
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 163
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ebe63e1768be1e0800000000000000
+      internalID: -2167490971943649729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_192
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35484f5a44ec1b80800000000000000
+      internalID: -8422606195012385473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_193
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 146
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccae1515d2e711090800000000000000
+      internalID: -8065526724540896564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_194
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf06277f2043dd10800000000000000
+      internalID: 2149132019792482219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_195
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 146
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c093bb7787e59e950800000000000000
+      internalID: 6478813410447014156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_196
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 143
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383bc6fc4ed05cf40800000000000000
+      internalID: 5748015775792018307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_197
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca83e749cfd946a0800000000000000
+      internalID: -6464389734526121267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_198
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 128
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5156c9b29f2acd120800000000000000
+      internalID: 2440004289190192405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_199
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d82c1f8dfe4f20e0800000000000000
+      internalID: -2292526834373613359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_200
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6c3196849248490800000000000000
+      internalID: -7745020068193122632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_201
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f29af7ca8a7c680800000000000000
+      internalID: -8734827493432152296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_202
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 131
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19765218bae1d000800000000000000
+      internalID: 59086346435066142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_203
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590c5f057a72e130800000000000000
+      internalID: 3594570095782529374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_204
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 16
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68400eae04dee30800000000000000
+      internalID: 4534351777356875480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_205
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487d3fd213c87a600800000000000000
+      internalID: 479506028190488452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_206
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e1e5411a9c41840800000000000000
+      internalID: 5193997963933654659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_207
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06665eda92a52e10800000000000000
+      internalID: 2172321181314999819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_208
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 100
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69170d42dfbf799c0800000000000000
+      internalID: -3920387885939789418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_209
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9dc8be61f82f40800000000000000
+      internalID: 5704074385913912949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_210
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 98
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bc244b0d74b6860800000000000000
+      internalID: 7524186564155591492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_211
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 98
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a0ef527eda537d0800000000000000
+      internalID: -2939251973502924230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_212
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 98
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4504f4bdd1c5b5100800000000000000
+      internalID: 97773100221808724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_213
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 97
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adc1ce892a5670a0800000000000000
+      internalID: -6884215845853999709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_214
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8119c4cab6d962020800000000000000
+      internalID: 2316712144106459416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_215
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 68
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efdf3ee8c5bc8130800000000000000
+      internalID: 3570428479193210851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_216
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac468d8ad7c4e0760800000000000000
+      internalID: 7425956938167903434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_217
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 66
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c8ed30212a088a0800000000000000
+      internalID: -6304861280060666784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_218
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450d58eaab5b2ca20800000000000000
+      internalID: 3081224908471390292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_219
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8e5126d74e243a0800000000000000
+      internalID: -6682527669896746813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_220
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998b87bb90a288a50800000000000000
+      internalID: 6523510281534486681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_221
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8db2fd6e3593ad0800000000000000
+      internalID: -2722052248716977952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_222
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 69
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3a67f51a37e8280800000000000000
+      internalID: -9039160265157467152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_223
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 50
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed260e224d6bb8740800000000000000
+      internalID: 5155415220690117342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_224
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7a3305365e6040800000000000000
+      internalID: 4642743051552980752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_225
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9f58e77a38852e0800000000000000
+      internalID: -2136813267781813803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_226
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed6bd28af2e1c4f0800000000000000
+      internalID: -810116892384858641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_227
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d30fdfdb544e3410800000000000000
+      internalID: 1458678490703266775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_228
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3862a6cb637f9040800000000000000
+      internalID: 4656567446455609403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_229
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd1638f3e76ab4f0800000000000000
+      internalID: -812222553967419965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_230
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d238fcdff1a97110800000000000000
+      internalID: 1259215691122750168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_231
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f55daa0e2bdffa30800000000000000
+      internalID: 4251357564055148023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_232
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45cc3ad44126f710800000000000000
+      internalID: 1726604086746072394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_233
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0267c627bbd8460800000000000000
+      internalID: 7245653475629342951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_234
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 21
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8f9b405b13d69c0800000000000000
+      internalID: -3932432246086436677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_235
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 21
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4805d1b01deb8f0800000000000000
+      internalID: -522750661061737296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_236
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf602bdd982f56240800000000000000
+      internalID: 4784496853094893307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_237
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 16
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed0bf66d116aba80800000000000000
+      internalID: -8450334971897639453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_238
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d649c70f92ca9650800000000000000
+      internalID: 6240514221961463505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tf_atlantis_tiles_239
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 17
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab145ecc1f0306b20800000000000000
+      internalID: 3125551956477952442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

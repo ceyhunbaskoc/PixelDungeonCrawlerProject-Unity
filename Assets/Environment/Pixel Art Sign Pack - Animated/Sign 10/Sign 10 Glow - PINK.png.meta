@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: e1608e237e12ea646b477932bdd3ca2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8824235825457498066
+    second: Sign 10 Glow - PINK_0
+  - first:
+      213: 2562673469473692136
+    second: Sign 10 Glow - PINK_1
+  - first:
+      213: 8346790506579324572
+    second: Sign 10 Glow - PINK_2
+  - first:
+      213: 7594224252042499553
+    second: Sign 10 Glow - PINK_3
+  - first:
+      213: -3247800788566748958
+    second: Sign 10 Glow - PINK_4
+  - first:
+      213: -3334950877748583488
+    second: Sign 10 Glow - PINK_5
+  - first:
+      213: -5700184539414650882
+    second: Sign 10 Glow - PINK_6
+  - first:
+      213: 3162366104442737547
+    second: Sign 10 Glow - PINK_7
+  - first:
+      213: 165584929725572522
+    second: Sign 10 Glow - PINK_8
+  - first:
+      213: 4166682201719630548
+    second: Sign 10 Glow - PINK_9
+  - first:
+      213: 1949002149625136753
+    second: Sign 10 Glow - PINK_10
+  - first:
+      213: -885341137161663330
+    second: Sign 10 Glow - PINK_11
+  - first:
+      213: -8023058739353476195
+    second: Sign 10 Glow - PINK_12
+  - first:
+      213: 872096185263654113
+    second: Sign 10 Glow - PINK_13
+  - first:
+      213: 1404692108713136597
+    second: Sign 10 Glow - PINK_14
+  - first:
+      213: -3890837095298497945
+    second: Sign 10 Glow - PINK_15
+  - first:
+      213: 4839039809723343535
+    second: Sign 10 Glow - PINK_16
+  - first:
+      213: -7340954131525997100
+    second: Sign 10 Glow - PINK_17
+  - first:
+      213: -457147238214940184
+    second: Sign 10 Glow - PINK_18
+  - first:
+      213: 5554445911837764830
+    second: Sign 10 Glow - PINK_19
+  - first:
+      213: -2636758596625065957
+    second: Sign 10 Glow - PINK_20
+  - first:
+      213: -4701232526857994120
+    second: Sign 10 Glow - PINK_21
+  - first:
+      213: 6960115500619509426
+    second: Sign 10 Glow - PINK_22
+  - first:
+      213: 1233588873497705214
+    second: Sign 10 Glow - PINK_23
+  - first:
+      213: -3523577012984176811
+    second: Sign 10 Glow - PINK_24
+  - first:
+      213: 593111548041434426
+    second: Sign 10 Glow - PINK_25
+  - first:
+      213: -196686756247675995
+    second: Sign 10 Glow - PINK_26
+  - first:
+      213: 5147522458859501476
+    second: Sign 10 Glow - PINK_27
+  - first:
+      213: -3807252541819999924
+    second: Sign 10 Glow - PINK_28
+  - first:
+      213: 1799156003180118192
+    second: Sign 10 Glow - PINK_29
+  - first:
+      213: -3788288442132361019
+    second: Sign 10 Glow - PINK_30
+  - first:
+      213: 2631716365944576227
+    second: Sign 10 Glow - PINK_31
+  - first:
+      213: -3473777728838760375
+    second: Sign 10 Glow - PINK_32
+  - first:
+      213: 6427971553059308088
+    second: Sign 10 Glow - PINK_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28745105440a8580800000000000000
+      internalID: -8824235825457498066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e91c4f51f1709320800000000000000
+      internalID: 2562673469473692136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 39
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e63471eb1c5d370800000000000000
+      internalID: 8346790506579324572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 40
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e556a7a8ba146960800000000000000
+      internalID: 7594224252042499553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0de30f36e7de2d0800000000000000
+      internalID: -3247800788566748958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 33
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c32b6498dfd7b1d0800000000000000
+      internalID: -3334950877748583488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 33
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff140ebc50e4e0b0800000000000000
+      internalID: -5700184539414650882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b839b01973bf2eb20800000000000000
+      internalID: 3162366104442737547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 39
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa56374cd964c4200800000000000000
+      internalID: 165584929725572522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 40
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dae07de26703d930800000000000000
+      internalID: 4166682201719630548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 39
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17601eaf02f3c0b10800000000000000
+      internalID: 1949002149625136753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 40
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c407e2de2a6b3f0800000000000000
+      internalID: -885341137161663330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 39
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932eb4a59e58a090800000000000000
+      internalID: -8023058739353476195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 40
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e40d942cde4a1c00800000000000000
+      internalID: 872096185263654113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_14
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 39
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d114aec7087e7310800000000000000
+      internalID: 1404692108713136597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_15
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 40
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76202dfb648f00ac0800000000000000
+      internalID: -3890837095298497945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 33
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2a8809119b72340800000000000000
+      internalID: 4839039809723343535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_17
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 33
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde4f58c11bf1a90800000000000000
+      internalID: -7340954131525997100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c5284203e7a9f0800000000000000
+      internalID: -457147238214940184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edce53bc02b551d40800000000000000
+      internalID: 5554445911837764830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1894b9c60a586bd0800000000000000
+      internalID: -2636758596625065957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8700e1eccedd1ceb0800000000000000
+      internalID: -4701232526857994120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bead1aeb2c479060800000000000000
+      internalID: 6960115500619509426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 6
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa74bb6b869e1110800000000000000
+      internalID: 1233588873497705214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f985a106db91fc0800000000000000
+      internalID: -3523577012984176811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35113d7fc72b3800800000000000000
+      internalID: 593111548041434426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab55d1ff6a354df0800000000000000
+      internalID: -196686756247675995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a77aa1576caf6740800000000000000
+      internalID: 5147522458859501476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ad922cfbe92bc0800000000000000
+      internalID: -3807252541819999924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b000114ad2e7f810800000000000000
+      internalID: 1799156003180118192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c09bfbabbb4d6bc0800000000000000
+      internalID: -3788288442132361019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_31
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e855b5671cb58420800000000000000
+      internalID: 2631716365944576227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94807eb7f89aacfc0800000000000000
+      internalID: -3473777728838760375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign 10 Glow - PINK_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 6
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8328a66121eb43950800000000000000
+      internalID: 6427971553059308088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

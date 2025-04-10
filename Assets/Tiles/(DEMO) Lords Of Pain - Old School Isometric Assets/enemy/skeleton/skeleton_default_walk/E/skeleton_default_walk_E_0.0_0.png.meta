@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 7bc8f35929813ef4a84804df1eb8d498
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3178230410974509237
+    second: skeleton_default_walk_E_0.0_0_0
+  - first:
+      213: 3071261183173204904
+    second: skeleton_default_walk_E_0.0_0_1
+  - first:
+      213: 3893054149496845546
+    second: skeleton_default_walk_E_0.0_0_2
+  - first:
+      213: 1401549052466631428
+    second: skeleton_default_walk_E_0.0_0_3
+  - first:
+      213: 7152745009437461055
+    second: skeleton_default_walk_E_0.0_0_4
+  - first:
+      213: 4273038741337839171
+    second: skeleton_default_walk_E_0.0_0_5
+  - first:
+      213: -3703013597614769136
+    second: skeleton_default_walk_E_0.0_0_6
+  - first:
+      213: -1130599253988287679
+    second: skeleton_default_walk_E_0.0_0_7
+  - first:
+      213: 5873940652659378297
+    second: skeleton_default_walk_E_0.0_0_8
+  - first:
+      213: 8307335732366375485
+    second: skeleton_default_walk_E_0.0_0_9
+  - first:
+      213: -7254472594872866973
+    second: skeleton_default_walk_E_0.0_0_10
+  - first:
+      213: 4770451522133566246
+    second: skeleton_default_walk_E_0.0_0_11
+  - first:
+      213: -7514688178193907847
+    second: skeleton_default_walk_E_0.0_0_12
+  - first:
+      213: -4683025853807074070
+    second: skeleton_default_walk_E_0.0_0_13
+  - first:
+      213: 6104887854644656898
+    second: skeleton_default_walk_E_0.0_0_14
+  - first:
+      213: -3871499352919785343
+    second: skeleton_default_walk_E_0.0_0_15
+  - first:
+      213: 8836395149623988058
+    second: skeleton_default_walk_E_0.0_0_16
+  - first:
+      213: 888450950423766773
+    second: skeleton_default_walk_E_0.0_0_17
+  - first:
+      213: -3052972371880526654
+    second: skeleton_default_walk_E_0.0_0_18
+  - first:
+      213: -4040940943763104573
+    second: skeleton_default_walk_E_0.0_0_19
+  - first:
+      213: -1774384117690848972
+    second: skeleton_default_walk_E_0.0_0_20
+  - first:
+      213: 6417493550205315727
+    second: skeleton_default_walk_E_0.0_0_21
+  - first:
+      213: -964706563696657077
+    second: skeleton_default_walk_E_0.0_0_22
+  - first:
+      213: 5372194137957270315
+    second: skeleton_default_walk_E_0.0_0_23
+  - first:
+      213: -5462661696451530109
+    second: skeleton_default_walk_E_0.0_0_24
+  - first:
+      213: -3241622514833466999
+    second: skeleton_default_walk_E_0.0_0_25
+  - first:
+      213: -3772691288411084205
+    second: skeleton_default_walk_E_0.0_0_26
+  - first:
+      213: 3449663525116598067
+    second: skeleton_default_walk_E_0.0_0_27
+  - first:
+      213: -1890196070759596925
+    second: skeleton_default_walk_E_0.0_0_28
+  - first:
+      213: 733393729509181910
+    second: skeleton_default_walk_E_0.0_0_29
+  - first:
+      213: 3358381952019411003
+    second: skeleton_default_walk_E_0.0_0_30
+  - first:
+      213: 3040607863713679387
+    second: skeleton_default_walk_E_0.0_0_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_default_walk_E_0.0_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47458bb748a4e3d0800000000000000
+      internalID: -3178230410974509237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_E_0.0_0_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 145
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4be186f18e60630800000000000000
+      internalID: 3893054149496845546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14934449a20ab9542ac9b5c76fde478a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skeleton_default_walk_E_0.0_0_0: -3178230410974509237
+      skeleton_default_walk_E_0.0_0_2: 3893054149496845546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

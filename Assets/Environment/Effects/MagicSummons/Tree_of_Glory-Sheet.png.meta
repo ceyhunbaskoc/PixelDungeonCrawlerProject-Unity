@@ -1,0 +1,4218 @@
+fileFormatVersion: 2
+guid: 7c4fd423dc3f22c49a1c7bf0ca737c27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3702215418161706954
+    second: Tree_of_Glory-Sheet_0
+  - first:
+      213: 7564839474672509741
+    second: Tree_of_Glory-Sheet_1
+  - first:
+      213: 274570202516690125
+    second: Tree_of_Glory-Sheet_2
+  - first:
+      213: 1811597383679127729
+    second: Tree_of_Glory-Sheet_3
+  - first:
+      213: 851877923908445340
+    second: Tree_of_Glory-Sheet_4
+  - first:
+      213: -4355865172155900569
+    second: Tree_of_Glory-Sheet_5
+  - first:
+      213: -796068441090356678
+    second: Tree_of_Glory-Sheet_6
+  - first:
+      213: -3507716673105940079
+    second: Tree_of_Glory-Sheet_7
+  - first:
+      213: -1930025588522857730
+    second: Tree_of_Glory-Sheet_8
+  - first:
+      213: 9006408835083105033
+    second: Tree_of_Glory-Sheet_9
+  - first:
+      213: 574983732466148500
+    second: Tree_of_Glory-Sheet_10
+  - first:
+      213: -3109467022025259276
+    second: Tree_of_Glory-Sheet_11
+  - first:
+      213: -7860539901900845311
+    second: Tree_of_Glory-Sheet_12
+  - first:
+      213: 2884846748169055289
+    second: Tree_of_Glory-Sheet_13
+  - first:
+      213: 1781417649962574175
+    second: Tree_of_Glory-Sheet_14
+  - first:
+      213: 1528958508457659576
+    second: Tree_of_Glory-Sheet_15
+  - first:
+      213: -4112061101871585742
+    second: Tree_of_Glory-Sheet_16
+  - first:
+      213: -6831549163976116647
+    second: Tree_of_Glory-Sheet_17
+  - first:
+      213: 6796975083598171429
+    second: Tree_of_Glory-Sheet_18
+  - first:
+      213: 930437635826908716
+    second: Tree_of_Glory-Sheet_19
+  - first:
+      213: 2852376140947401187
+    second: Tree_of_Glory-Sheet_20
+  - first:
+      213: -2819175038985769646
+    second: Tree_of_Glory-Sheet_21
+  - first:
+      213: 8139112781114725643
+    second: Tree_of_Glory-Sheet_22
+  - first:
+      213: -6907059375752989067
+    second: Tree_of_Glory-Sheet_23
+  - first:
+      213: 372876258530739033
+    second: Tree_of_Glory-Sheet_24
+  - first:
+      213: -7718027936785789438
+    second: Tree_of_Glory-Sheet_25
+  - first:
+      213: -4140828701612440391
+    second: Tree_of_Glory-Sheet_26
+  - first:
+      213: -6653979254879943161
+    second: Tree_of_Glory-Sheet_27
+  - first:
+      213: -1218942946325735483
+    second: Tree_of_Glory-Sheet_28
+  - first:
+      213: 8580382690811984519
+    second: Tree_of_Glory-Sheet_29
+  - first:
+      213: -4889246018195800779
+    second: Tree_of_Glory-Sheet_30
+  - first:
+      213: 4971466822167030993
+    second: Tree_of_Glory-Sheet_31
+  - first:
+      213: -8217547850613832581
+    second: Tree_of_Glory-Sheet_32
+  - first:
+      213: 2773825206952920041
+    second: Tree_of_Glory-Sheet_33
+  - first:
+      213: -4955419735541153631
+    second: Tree_of_Glory-Sheet_34
+  - first:
+      213: 6703740896136519441
+    second: Tree_of_Glory-Sheet_35
+  - first:
+      213: -6653192930520889108
+    second: Tree_of_Glory-Sheet_36
+  - first:
+      213: 1164878697023818949
+    second: Tree_of_Glory-Sheet_37
+  - first:
+      213: -289932331338069527
+    second: Tree_of_Glory-Sheet_38
+  - first:
+      213: 5249511009565444210
+    second: Tree_of_Glory-Sheet_39
+  - first:
+      213: -3264477395894813034
+    second: Tree_of_Glory-Sheet_40
+  - first:
+      213: -7668318671366761910
+    second: Tree_of_Glory-Sheet_41
+  - first:
+      213: 6216395014021429977
+    second: Tree_of_Glory-Sheet_42
+  - first:
+      213: 441970424307132557
+    second: Tree_of_Glory-Sheet_43
+  - first:
+      213: 3262589226720818743
+    second: Tree_of_Glory-Sheet_44
+  - first:
+      213: -6724633771266212244
+    second: Tree_of_Glory-Sheet_45
+  - first:
+      213: -9019460694931166127
+    second: Tree_of_Glory-Sheet_46
+  - first:
+      213: 655422176297877920
+    second: Tree_of_Glory-Sheet_47
+  - first:
+      213: 4301248932241438133
+    second: Tree_of_Glory-Sheet_48
+  - first:
+      213: 4846321642473862369
+    second: Tree_of_Glory-Sheet_49
+  - first:
+      213: -956347772156723396
+    second: Tree_of_Glory-Sheet_50
+  - first:
+      213: 3713847184037533689
+    second: Tree_of_Glory-Sheet_51
+  - first:
+      213: 4630750815888001342
+    second: Tree_of_Glory-Sheet_52
+  - first:
+      213: 7009080898601108789
+    second: Tree_of_Glory-Sheet_53
+  - first:
+      213: 1263455640506338064
+    second: Tree_of_Glory-Sheet_54
+  - first:
+      213: 4235695671065954116
+    second: Tree_of_Glory-Sheet_55
+  - first:
+      213: 5992709419333356289
+    second: Tree_of_Glory-Sheet_56
+  - first:
+      213: -5019833460226050107
+    second: Tree_of_Glory-Sheet_57
+  - first:
+      213: -6776437918345140654
+    second: Tree_of_Glory-Sheet_58
+  - first:
+      213: -4306436051304311693
+    second: Tree_of_Glory-Sheet_59
+  - first:
+      213: -1550244398349787851
+    second: Tree_of_Glory-Sheet_60
+  - first:
+      213: -3428220100240999835
+    second: Tree_of_Glory-Sheet_61
+  - first:
+      213: -9155239921365331826
+    second: Tree_of_Glory-Sheet_62
+  - first:
+      213: 2587524920133790299
+    second: Tree_of_Glory-Sheet_63
+  - first:
+      213: 425486491120924840
+    second: Tree_of_Glory-Sheet_64
+  - first:
+      213: 8520236981917894698
+    second: Tree_of_Glory-Sheet_65
+  - first:
+      213: 4370771703859129574
+    second: Tree_of_Glory-Sheet_66
+  - first:
+      213: 8785746655532589324
+    second: Tree_of_Glory-Sheet_67
+  - first:
+      213: 1648310864685953026
+    second: Tree_of_Glory-Sheet_68
+  - first:
+      213: 6275342154549770681
+    second: Tree_of_Glory-Sheet_69
+  - first:
+      213: -4827524625383171536
+    second: Tree_of_Glory-Sheet_70
+  - first:
+      213: 5002828800210722819
+    second: Tree_of_Glory-Sheet_71
+  - first:
+      213: 5396971646207166350
+    second: Tree_of_Glory-Sheet_72
+  - first:
+      213: -7303852258961931680
+    second: Tree_of_Glory-Sheet_73
+  - first:
+      213: -5410326582413357189
+    second: Tree_of_Glory-Sheet_74
+  - first:
+      213: -9087776715182197502
+    second: Tree_of_Glory-Sheet_75
+  - first:
+      213: 2079251507376704319
+    second: Tree_of_Glory-Sheet_76
+  - first:
+      213: -2100560757934865162
+    second: Tree_of_Glory-Sheet_77
+  - first:
+      213: 212951302724686871
+    second: Tree_of_Glory-Sheet_78
+  - first:
+      213: -4848291072482046700
+    second: Tree_of_Glory-Sheet_79
+  - first:
+      213: -6869432361039850498
+    second: Tree_of_Glory-Sheet_80
+  - first:
+      213: -7549699654445572203
+    second: Tree_of_Glory-Sheet_81
+  - first:
+      213: -3281704464773933416
+    second: Tree_of_Glory-Sheet_82
+  - first:
+      213: 3922328591530094917
+    second: Tree_of_Glory-Sheet_83
+  - first:
+      213: -4785727547213095996
+    second: Tree_of_Glory-Sheet_84
+  - first:
+      213: -7810839647848232357
+    second: Tree_of_Glory-Sheet_85
+  - first:
+      213: 3644337237180816631
+    second: Tree_of_Glory-Sheet_86
+  - first:
+      213: 4620031494455316108
+    second: Tree_of_Glory-Sheet_87
+  - first:
+      213: 2736433289349293488
+    second: Tree_of_Glory-Sheet_88
+  - first:
+      213: -3987775794813631377
+    second: Tree_of_Glory-Sheet_89
+  - first:
+      213: 224655234963856312
+    second: Tree_of_Glory-Sheet_90
+  - first:
+      213: -7855419509186080838
+    second: Tree_of_Glory-Sheet_91
+  - first:
+      213: 7248722397495237995
+    second: Tree_of_Glory-Sheet_92
+  - first:
+      213: -3205836451463928822
+    second: Tree_of_Glory-Sheet_93
+  - first:
+      213: 3517441655740145276
+    second: Tree_of_Glory-Sheet_94
+  - first:
+      213: 2396002128659309016
+    second: Tree_of_Glory-Sheet_95
+  - first:
+      213: 7428745179983468216
+    second: Tree_of_Glory-Sheet_96
+  - first:
+      213: -2688541710817217045
+    second: Tree_of_Glory-Sheet_97
+  - first:
+      213: 6996701159578737685
+    second: Tree_of_Glory-Sheet_98
+  - first:
+      213: 3899102180781816654
+    second: Tree_of_Glory-Sheet_99
+  - first:
+      213: 8749650212475322763
+    second: Tree_of_Glory-Sheet_100
+  - first:
+      213: 8712502300064485552
+    second: Tree_of_Glory-Sheet_101
+  - first:
+      213: 7538024547880614135
+    second: Tree_of_Glory-Sheet_102
+  - first:
+      213: -4674983366395065781
+    second: Tree_of_Glory-Sheet_103
+  - first:
+      213: 6279730584102158951
+    second: Tree_of_Glory-Sheet_104
+  - first:
+      213: 7345205369056548708
+    second: Tree_of_Glory-Sheet_105
+  - first:
+      213: -1630770673336484491
+    second: Tree_of_Glory-Sheet_106
+  - first:
+      213: 155686903094630204
+    second: Tree_of_Glory-Sheet_107
+  - first:
+      213: 8780615829956041599
+    second: Tree_of_Glory-Sheet_108
+  - first:
+      213: 6379864324248588089
+    second: Tree_of_Glory-Sheet_109
+  - first:
+      213: 500098658435688531
+    second: Tree_of_Glory-Sheet_110
+  - first:
+      213: 226340893205067484
+    second: Tree_of_Glory-Sheet_111
+  - first:
+      213: 6336514804424913502
+    second: Tree_of_Glory-Sheet_112
+  - first:
+      213: 4745275234637737437
+    second: Tree_of_Glory-Sheet_113
+  - first:
+      213: 410716657813138752
+    second: Tree_of_Glory-Sheet_114
+  - first:
+      213: -4398160011186340462
+    second: Tree_of_Glory-Sheet_115
+  - first:
+      213: 1774125690799825379
+    second: Tree_of_Glory-Sheet_116
+  - first:
+      213: -6585822468990497261
+    second: Tree_of_Glory-Sheet_117
+  - first:
+      213: -5996150964075748128
+    second: Tree_of_Glory-Sheet_118
+  - first:
+      213: -9191245885955823440
+    second: Tree_of_Glory-Sheet_119
+  - first:
+      213: 3442784166376938814
+    second: Tree_of_Glory-Sheet_120
+  - first:
+      213: -1889139541319396031
+    second: Tree_of_Glory-Sheet_121
+  - first:
+      213: 5533367241081403153
+    second: Tree_of_Glory-Sheet_122
+  - first:
+      213: 7331373915659090441
+    second: Tree_of_Glory-Sheet_123
+  - first:
+      213: 8146884035920192244
+    second: Tree_of_Glory-Sheet_124
+  - first:
+      213: -8930872882351464016
+    second: Tree_of_Glory-Sheet_125
+  - first:
+      213: -8646281845972691991
+    second: Tree_of_Glory-Sheet_126
+  - first:
+      213: 5663336139622403421
+    second: Tree_of_Glory-Sheet_127
+  - first:
+      213: 4010176398968877426
+    second: Tree_of_Glory-Sheet_128
+  - first:
+      213: -3225248277953367774
+    second: Tree_of_Glory-Sheet_129
+  - first:
+      213: 5043463252378264226
+    second: Tree_of_Glory-Sheet_130
+  - first:
+      213: 1717782092349338206
+    second: Tree_of_Glory-Sheet_131
+  - first:
+      213: 121847928074725630
+    second: Tree_of_Glory-Sheet_132
+  - first:
+      213: 3263689822478468575
+    second: Tree_of_Glory-Sheet_133
+  - first:
+      213: -7705793321472766865
+    second: Tree_of_Glory-Sheet_134
+  - first:
+      213: 3603987160281075224
+    second: Tree_of_Glory-Sheet_135
+  - first:
+      213: 461875350972060276
+    second: Tree_of_Glory-Sheet_136
+  - first:
+      213: -4308323839957891869
+    second: Tree_of_Glory-Sheet_137
+  - first:
+      213: -2024917711837988175
+    second: Tree_of_Glory-Sheet_138
+  - first:
+      213: 1163207728314210843
+    second: Tree_of_Glory-Sheet_139
+  - first:
+      213: -6089626051348721332
+    second: Tree_of_Glory-Sheet_140
+  - first:
+      213: 549084606861640822
+    second: Tree_of_Glory-Sheet_141
+  - first:
+      213: 8336879672032146960
+    second: Tree_of_Glory-Sheet_142
+  - first:
+      213: 5066462789297012544
+    second: Tree_of_Glory-Sheet_143
+  - first:
+      213: 8034440211433345378
+    second: Tree_of_Glory-Sheet_144
+  - first:
+      213: -4016757933185536128
+    second: Tree_of_Glory-Sheet_145
+  - first:
+      213: 5951524854386083287
+    second: Tree_of_Glory-Sheet_146
+  - first:
+      213: 1470566391566883521
+    second: Tree_of_Glory-Sheet_147
+  - first:
+      213: 7138967674210548481
+    second: Tree_of_Glory-Sheet_148
+  - first:
+      213: 5250857025620567352
+    second: Tree_of_Glory-Sheet_149
+  - first:
+      213: -5200581365003788233
+    second: Tree_of_Glory-Sheet_150
+  - first:
+      213: 5445683906983770342
+    second: Tree_of_Glory-Sheet_151
+  - first:
+      213: -3232758223338755090
+    second: Tree_of_Glory-Sheet_152
+  - first:
+      213: 8693016623501502124
+    second: Tree_of_Glory-Sheet_153
+  - first:
+      213: 1562768899061634902
+    second: Tree_of_Glory-Sheet_154
+  - first:
+      213: -1166053032322057190
+    second: Tree_of_Glory-Sheet_155
+  - first:
+      213: 741669403759711421
+    second: Tree_of_Glory-Sheet_156
+  - first:
+      213: -5586045671172860950
+    second: Tree_of_Glory-Sheet_157
+  - first:
+      213: -2958421247152739805
+    second: Tree_of_Glory-Sheet_158
+  - first:
+      213: -3017122160119072449
+    second: Tree_of_Glory-Sheet_159
+  - first:
+      213: 1516500223142154792
+    second: Tree_of_Glory-Sheet_160
+  - first:
+      213: 6007360323090600416
+    second: Tree_of_Glory-Sheet_161
+  - first:
+      213: 2012271221307675532
+    second: Tree_of_Glory-Sheet_162
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7b081ce49e06330800000000000000
+      internalID: 3702215418161706954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2325b60c65bbf860800000000000000
+      internalID: 7564839474672509741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41aeaf4287fc300800000000000000
+      internalID: 274570202516690125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b832e836142910800000000000000
+      internalID: 1811597383679127729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c946f86557a72db00800000000000000
+      internalID: 851877923908445340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dd62c44bbdc83c0800000000000000
+      internalID: -4355865172155900569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a09e778fbc3f4f0800000000000000
+      internalID: -796068441090356678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1913ece3546125fc0800000000000000
+      internalID: -3507716673105940079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa4ea4f3fb2735e0800000000000000
+      internalID: -1930025588522857730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90371151e113dfc70800000000000000
+      internalID: 9006408835083105033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494e54588a0caf700800000000000000
+      internalID: 574983732466148500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f68467d734f8d4d0800000000000000
+      internalID: -3109467022025259276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8a6c2b90c9e290800000000000000
+      internalID: -7860539901900845311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cae0835d8090820800000000000000
+      internalID: 2884846748169055289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5161ae0aedd8b810800000000000000
+      internalID: 1781417649962574175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0ee4a9a3f73510800000000000000
+      internalID: 1528958508457659576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2362e38e6360fe6c0800000000000000
+      internalID: -4112061101871585742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956369ffa367131a0800000000000000
+      internalID: -6831549163976116647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dcc0d93d4b35e50800000000000000
+      internalID: 6796975083598171429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2efd11a91499ec00800000000000000
+      internalID: 930437635826908716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e928f6dcfca59720800000000000000
+      internalID: 2852376140947401187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dea991d3740e8d0800000000000000
+      internalID: -2819175038985769646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4287
+        y: 471
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b055f2993ffe3f070800000000000000
+      internalID: 8139112781114725643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57636b9c7123520a0800000000000000
+      internalID: -6907059375752989067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 471
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953c6e64bf8bc2500800000000000000
+      internalID: 372876258530739033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 0
+        width: 11265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e875dbb7e04e490800000000000000
+      internalID: -7718027936785789438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 447
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b406a42c32d886c0800000000000000
+      internalID: -4140828701612440391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 447
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706001a3f1158a3a0800000000000000
+      internalID: -6653979254879943161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 447
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c759ca39d1751fe0800000000000000
+      internalID: -1218942946325735483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 431
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a32c2b894a31770800000000000000
+      internalID: 8580382690811984519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 447
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d32f996a8e52cb0800000000000000
+      internalID: -4889246018195800779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 431
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dce7eb1cb23ef440800000000000000
+      internalID: 4971466822167030993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 447
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74436fa4c765fd80800000000000000
+      internalID: -8217547850613832581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 431
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e30471545b9e7620800000000000000
+      internalID: 2773825206952920041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 447
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a00c166100da3bb0800000000000000
+      internalID: -4955419735541153631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 431
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fd97cb3d8780d50800000000000000
+      internalID: 6703740896136519441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 447
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88922a74c1ba3a0800000000000000
+      internalID: -6653192930520889108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 431
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc468ec00b7a2010800000000000000
+      internalID: 1164878697023818949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 447
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e981bda414f9fbf0800000000000000
+      internalID: -289932331338069527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 431
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27886a933720ad840800000000000000
+      internalID: 5249511009565444210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 407
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb568ba1f32b2d0800000000000000
+      internalID: -3264477395894813034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4250b00cc8a49590800000000000000
+      internalID: -7668318671366761910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 399
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab1425452154650800000000000000
+      internalID: 6216395014021429977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882e0e52c1322600800000000000000
+      internalID: 441970424307132557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 399
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736f5b2ad9b074d20800000000000000
+      internalID: 3262589226720818743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ef413b63d4da2a0800000000000000
+      internalID: -6724633771266212244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 399
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca70df84074d280800000000000000
+      internalID: -9019460694931166127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1062c2ff6881900800000000000000
+      internalID: 655422176297877920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 399
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b577c86d1b11bb30800000000000000
+      internalID: 4301248932241438133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e431fe5bd7914340800000000000000
+      internalID: 4846321642473862369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 399
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fbcd6a4ce5ab2f0800000000000000
+      internalID: -956347772156723396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f754aa465c3a8330800000000000000
+      internalID: 3713847184037533689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 327
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39ca50155bb34040800000000000000
+      internalID: 4630750815888001342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 351
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535481b01f1454160800000000000000
+      internalID: 7009080898601108789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 327
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b08d10632b88110800000000000000
+      internalID: 1263455640506338064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 351
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447cb8a65c638ca30800000000000000
+      internalID: 4235695671065954116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 327
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b808557716a2350800000000000000
+      internalID: 5992709419333356289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 351
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c73b9b6018f55ab0800000000000000
+      internalID: -5019833460226050107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 327
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ec8acd9145f1a0800000000000000
+      internalID: -6776437918345140654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 327
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37412125a377c34c0800000000000000
+      internalID: -4306436051304311693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d5259eeec6c7ae0800000000000000
+      internalID: -1550244398349787851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 351
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af7497bf38c60d0800000000000000
+      internalID: -3428220100240999835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 327
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e805b8d4ccd02f080800000000000000
+      internalID: -9155239921365331826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 4287
+        y: 327
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aab00a43cb8e320800000000000000
+      internalID: 2587524920133790299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 351
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87df795b1a7e500800000000000000
+      internalID: 425486491120924840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 351
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28cc559466fd3670800000000000000
+      internalID: 8520236981917894698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 335
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec2ad215b918ac30800000000000000
+      internalID: 4370771703859129574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 351
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01a899c80e3de970800000000000000
+      internalID: 8785746655532589324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200f5019ff9ffd610800000000000000
+      internalID: 1648310864685953026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b939fdf07e761750800000000000000
+      internalID: 6275342154549770681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ad5973eef210db0800000000000000
+      internalID: -4827524625383171536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30067a4a94e9d6540800000000000000
+      internalID: 5002828800210722819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87880b2e15e5ea40800000000000000
+      internalID: 5396971646207166350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062c3a4611183aa90800000000000000
+      internalID: -7303852258961931680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f066073a8aae4b0800000000000000
+      internalID: -5410326582413357189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205bf750a3bb1e180800000000000000
+      internalID: -9087776715182197502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 255
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b42e7ca3cfadc10800000000000000
+      internalID: 2079251507376704319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 271
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ca22be1f49d2e0800000000000000
+      internalID: -2100560757934865162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 223
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149c51e41e84f200800000000000000
+      internalID: 212951302724686871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d8209f4f867bcb0800000000000000
+      internalID: -4848291072482046700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 255
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef395a7d9afdaa0a0800000000000000
+      internalID: -6869432361039850498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 271
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd1ef0a241a3790800000000000000
+      internalID: -7549699654445572203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 223
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896165f2d2b0572d0800000000000000
+      internalID: -3281704464773933416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54172869219ee6630800000000000000
+      internalID: 3922328591530094917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 255
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbdf84d62ea59db0800000000000000
+      internalID: -4785727547213095996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 271
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a087059b25a9390800000000000000
+      internalID: -7810839647848232357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 223
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc14ef9869439230800000000000000
+      internalID: 3644337237180816631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e402e8a26ad1040800000000000000
+      internalID: 4620031494455316108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 255
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5e7331493c9f520800000000000000
+      internalID: 2736433289349293488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 271
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f648b32fa0398a8c0800000000000000
+      internalID: -3987775794813631377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 223
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd3f4feb22e1300800000000000000
+      internalID: 224655234963856312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4a418391fbf290800000000000000
+      internalID: -7855419509186080838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 191
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d1f1a7d92a89460800000000000000
+      internalID: 7248722397495237995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 223
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a046e7e8bb49283d0800000000000000
+      internalID: -3205836451463928822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e9d88bc8670d030800000000000000
+      internalID: 3517441655740145276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 215
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d161dfcd3f404120800000000000000
+      internalID: 2396002128659309016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 199
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65fcbc164381760800000000000000
+      internalID: 7428745179983468216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be53beafe8160bad0800000000000000
+      internalID: -2688541710817217045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 215
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c114072a6491160800000000000000
+      internalID: 6996701159578737685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 199
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b737c66c46c1630800000000000000
+      internalID: 3899102180781816654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b814387b2800d6970800000000000000
+      internalID: 8749650212475322763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 215
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b01e1c5ea609e870800000000000000
+      internalID: 8712502300064485552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 199
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8399c53617c9860800000000000000
+      internalID: 7538024547880614135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a892bb56f1f1fb0800000000000000
+      internalID: -4674983366395065781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 215
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c09ed1b5162750800000000000000
+      internalID: 6279730584102158951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 191
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46758e8dd596fe560800000000000000
+      internalID: 7345205369056548708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 175
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d77a976b65e59e0800000000000000
+      internalID: -1630770673336484491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 175
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37d22bd96c192200800000000000000
+      internalID: 155686903094630204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 175
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b93bd53930bd970800000000000000
+      internalID: 8780615829956041599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f460a0dc4d98850800000000000000
+      internalID: 6379864324248588089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 175
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35865b88415b0f600800000000000000
+      internalID: 500098658435688531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 159
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f1a9d7df142300800000000000000
+      internalID: 226340893205067484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 175
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5230cf64a2dfe750800000000000000
+      internalID: 6336514804424913502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 159
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd6a023faa9ad140800000000000000
+      internalID: 4745275234637737437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 175
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da94ccf9823b500800000000000000
+      internalID: 410716657813138752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 159
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29df8e3b5c896f2c0800000000000000
+      internalID: -4398160011186340462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1a4038ae5fe9810800000000000000
+      internalID: 1774125690799825379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e090e8b557a94a0800000000000000
+      internalID: -6585822468990497261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e426a6977469cca0800000000000000
+      internalID: -5996150964075748128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b825546092227080800000000000000
+      internalID: -9191245885955823440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d9c3b65f937cf20800000000000000
+      internalID: 3442784166376938814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1455384a89d68c5e0800000000000000
+      internalID: -1889139541319396031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117b07050387acc40800000000000000
+      internalID: 5533367241081403153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90abc66abb54eb560800000000000000
+      internalID: 7331373915659090441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2e25bdddb8f0170800000000000000
+      internalID: 8146884035920192244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1a5496e6a2f0480800000000000000
+      internalID: -8930872882351464016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e393e6987c320880800000000000000
+      internalID: -8646281845972691991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d43dd9636389e40800000000000000
+      internalID: 5663336139622403421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f133203207a730800000000000000
+      internalID: 4010176398968877426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221362087cd9d33d0800000000000000
+      internalID: -3225248277953367774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22ebb4b1bfdf540800000000000000
+      internalID: 5043463252378264226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52720836b9c6d710800000000000000
+      internalID: 1717782092349338206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e2858b04e0b100800000000000000
+      internalID: 121847928074725630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd503ed0a94fa4d20800000000000000
+      internalID: 3263689822478468575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc9091dc58f0590800000000000000
+      internalID: -7705793321472766865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4f9f3a3fe30230800000000000000
+      internalID: 3603987160281075224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472d2314f29e86600800000000000000
+      internalID: 461875350972060276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e486f54b42c534c0800000000000000
+      internalID: -4308323839957891869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 151
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baff7ec11c06e3e0800000000000000
+      internalID: -2024917711837988175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a5826144b842010800000000000000
+      internalID: 1163207728314210843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 151
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41156ade5d4d7ba0800000000000000
+      internalID: -6089626051348721332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748f9f6a8dbe9700800000000000000
+      internalID: 549084606861640822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b6aa14eb82b370800000000000000
+      internalID: 8336879672032146960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f78c74011bf4640800000000000000
+      internalID: 5066462789297012544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2615993ddc0108f60800000000000000
+      internalID: 8034440211433345378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6eb301fb9148c0800000000000000
+      internalID: -4016757933185536128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d547919250189250800000000000000
+      internalID: 5951524854386083287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cad8fb7750886410800000000000000
+      internalID: 1470566391566883521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf05c9645b21360800000000000000
+      internalID: 7138967674210548481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 87
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8356a7205aaced840800000000000000
+      internalID: 5250857025620567352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 79
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730ee696dc2d3d7b0800000000000000
+      internalID: -5200581365003788233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 87
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e834d239a4f29b40800000000000000
+      internalID: 5445683906983770342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 79
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebab25168fe223d0800000000000000
+      internalID: -3232758223338755090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 55
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca66f5ebf8cc3a870800000000000000
+      internalID: 8693016623501502124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 31
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657d896a80210b510800000000000000
+      internalID: 1562768899061634902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 39
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c3d23f1f851dfe0800000000000000
+      internalID: -1166053032322057190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 55
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db49fd7a460fa4a00800000000000000
+      internalID: 741669403759711421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 31
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae312a6ee016a72b0800000000000000
+      internalID: -5586045671172860950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 39
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a2e73dc8391f6d0800000000000000
+      internalID: -2958421247152739805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 31
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39b42a71670126d0800000000000000
+      internalID: -3017122160119072449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 31
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822503e0be0bb0510800000000000000
+      internalID: 1516500223142154792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 23
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1579fa26e6e5350800000000000000
+      internalID: 6007360323090600416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_of_Glory-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 23
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8319c9a3060deb10800000000000000
+      internalID: 2012271221307675532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

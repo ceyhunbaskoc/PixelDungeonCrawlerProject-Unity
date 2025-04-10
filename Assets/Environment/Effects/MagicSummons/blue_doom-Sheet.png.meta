@@ -1,0 +1,2268 @@
+fileFormatVersion: 2
+guid: 01b63b4a4e0fa31458cbb0d715e7bba3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3981578187785159801
+    second: blue_doom-Sheet_0
+  - first:
+      213: -1147920008092758760
+    second: blue_doom-Sheet_1
+  - first:
+      213: 4041765488564561216
+    second: blue_doom-Sheet_2
+  - first:
+      213: -7366669299699467858
+    second: blue_doom-Sheet_3
+  - first:
+      213: 1565778793734534543
+    second: blue_doom-Sheet_4
+  - first:
+      213: -8252805263754581830
+    second: blue_doom-Sheet_5
+  - first:
+      213: -114321989274969383
+    second: blue_doom-Sheet_6
+  - first:
+      213: 4207184908562171906
+    second: blue_doom-Sheet_7
+  - first:
+      213: -7964141681457464125
+    second: blue_doom-Sheet_8
+  - first:
+      213: 3897063555338779977
+    second: blue_doom-Sheet_9
+  - first:
+      213: 6780921300214705500
+    second: blue_doom-Sheet_10
+  - first:
+      213: -4880411562588161405
+    second: blue_doom-Sheet_11
+  - first:
+      213: -5939212459158587365
+    second: blue_doom-Sheet_12
+  - first:
+      213: 4504120610064833549
+    second: blue_doom-Sheet_13
+  - first:
+      213: -1485277455849570357
+    second: blue_doom-Sheet_14
+  - first:
+      213: -3008663440159075497
+    second: blue_doom-Sheet_15
+  - first:
+      213: -1868602728024049016
+    second: blue_doom-Sheet_16
+  - first:
+      213: 2421316605069216391
+    second: blue_doom-Sheet_17
+  - first:
+      213: 112097071093434410
+    second: blue_doom-Sheet_18
+  - first:
+      213: 6288049286643280064
+    second: blue_doom-Sheet_19
+  - first:
+      213: -4629081921283401357
+    second: blue_doom-Sheet_20
+  - first:
+      213: -1795082270608821023
+    second: blue_doom-Sheet_21
+  - first:
+      213: -456170497811661477
+    second: blue_doom-Sheet_22
+  - first:
+      213: -6795851006911010267
+    second: blue_doom-Sheet_23
+  - first:
+      213: -9096104028536842065
+    second: blue_doom-Sheet_24
+  - first:
+      213: -3323361781292400631
+    second: blue_doom-Sheet_25
+  - first:
+      213: 2265548414734162570
+    second: blue_doom-Sheet_26
+  - first:
+      213: -5750760095817145167
+    second: blue_doom-Sheet_27
+  - first:
+      213: -434137907624464691
+    second: blue_doom-Sheet_28
+  - first:
+      213: -4020911380637851926
+    second: blue_doom-Sheet_29
+  - first:
+      213: -6115247633646001160
+    second: blue_doom-Sheet_30
+  - first:
+      213: 4429690289748261195
+    second: blue_doom-Sheet_31
+  - first:
+      213: 2817009948925750396
+    second: blue_doom-Sheet_32
+  - first:
+      213: -2604004625480899674
+    second: blue_doom-Sheet_33
+  - first:
+      213: 4584392343800282880
+    second: blue_doom-Sheet_34
+  - first:
+      213: 1715219440808659517
+    second: blue_doom-Sheet_35
+  - first:
+      213: 2300848359085769444
+    second: blue_doom-Sheet_36
+  - first:
+      213: -3050086077623708863
+    second: blue_doom-Sheet_37
+  - first:
+      213: -5085705281592115892
+    second: blue_doom-Sheet_38
+  - first:
+      213: 6895679110978635598
+    second: blue_doom-Sheet_39
+  - first:
+      213: 4967833153029756006
+    second: blue_doom-Sheet_40
+  - first:
+      213: 8840723499117317659
+    second: blue_doom-Sheet_41
+  - first:
+      213: 4287740101256216728
+    second: blue_doom-Sheet_42
+  - first:
+      213: 1165841240538507827
+    second: blue_doom-Sheet_43
+  - first:
+      213: -4316455651148436149
+    second: blue_doom-Sheet_44
+  - first:
+      213: 3674444712149386234
+    second: blue_doom-Sheet_45
+  - first:
+      213: -4732387007098947288
+    second: blue_doom-Sheet_46
+  - first:
+      213: 413942029213280350
+    second: blue_doom-Sheet_47
+  - first:
+      213: -3055112616872073843
+    second: blue_doom-Sheet_48
+  - first:
+      213: 1753203543761177517
+    second: blue_doom-Sheet_49
+  - first:
+      213: -666972979762315917
+    second: blue_doom-Sheet_50
+  - first:
+      213: -3369864144080302675
+    second: blue_doom-Sheet_51
+  - first:
+      213: -2893850955091869709
+    second: blue_doom-Sheet_52
+  - first:
+      213: -2109173735370639781
+    second: blue_doom-Sheet_53
+  - first:
+      213: 6130785318830779756
+    second: blue_doom-Sheet_54
+  - first:
+      213: 6876149632769960011
+    second: blue_doom-Sheet_55
+  - first:
+      213: 4386080863384757522
+    second: blue_doom-Sheet_56
+  - first:
+      213: -5004443294065724725
+    second: blue_doom-Sheet_57
+  - first:
+      213: -7666320249644878772
+    second: blue_doom-Sheet_58
+  - first:
+      213: 3965715159062388549
+    second: blue_doom-Sheet_59
+  - first:
+      213: 4644114924150836231
+    second: blue_doom-Sheet_60
+  - first:
+      213: -4545523065916765589
+    second: blue_doom-Sheet_61
+  - first:
+      213: -2867454740023637670
+    second: blue_doom-Sheet_62
+  - first:
+      213: 2916016177523367058
+    second: blue_doom-Sheet_63
+  - first:
+      213: 459802584966683045
+    second: blue_doom-Sheet_64
+  - first:
+      213: -9093849149852219547
+    second: blue_doom-Sheet_65
+  - first:
+      213: -5071211235147193343
+    second: blue_doom-Sheet_66
+  - first:
+      213: -2016169489513145092
+    second: blue_doom-Sheet_67
+  - first:
+      213: 162802327846083165
+    second: blue_doom-Sheet_68
+  - first:
+      213: -8500086089418775599
+    second: blue_doom-Sheet_69
+  - first:
+      213: 1857425563973261858
+    second: blue_doom-Sheet_70
+  - first:
+      213: 1897705256048449023
+    second: blue_doom-Sheet_71
+  - first:
+      213: -7812210586540371759
+    second: blue_doom-Sheet_72
+  - first:
+      213: -5021709115064238371
+    second: blue_doom-Sheet_73
+  - first:
+      213: -3092045785295254599
+    second: blue_doom-Sheet_74
+  - first:
+      213: 7367842878323659957
+    second: blue_doom-Sheet_75
+  - first:
+      213: -219419169972811268
+    second: blue_doom-Sheet_76
+  - first:
+      213: 7505865145648745789
+    second: blue_doom-Sheet_77
+  - first:
+      213: 6707940725618902224
+    second: blue_doom-Sheet_78
+  - first:
+      213: 806197804694784660
+    second: blue_doom-Sheet_79
+  - first:
+      213: -8079930714426652280
+    second: blue_doom-Sheet_80
+  - first:
+      213: 5110815773104174517
+    second: blue_doom-Sheet_81
+  - first:
+      213: 6025667976880686881
+    second: blue_doom-Sheet_82
+  - first:
+      213: -5802643520674221911
+    second: blue_doom-Sheet_83
+  - first:
+      213: -7797810512076765034
+    second: blue_doom-Sheet_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_doom-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 463
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b3f97cbb79eb8c0800000000000000
+      internalID: -3981578187785159801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 463
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d4117a5d4c110f0800000000000000
+      internalID: -1147920008092758760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 479
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045e2533c4c371830800000000000000
+      internalID: 4041765488564561216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea933ad5d4554c990800000000000000
+      internalID: -7366669299699467858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4375
+        y: 471
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85f26d5483cab510800000000000000
+      internalID: 1565778793734534543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 0
+        width: 258
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab82f6d7655287d80800000000000000
+      internalID: -8252805263754581830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4863
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dadf37a1c8d96ef0800000000000000
+      internalID: -114321989274969383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 471
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2088b3b326ce26a30800000000000000
+      internalID: 4207184908562171906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 0
+        width: 354
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc78d7265fa97190800000000000000
+      internalID: -7964141681457464125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5631
+        y: 0
+        width: 418
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94db613f7a6251630800000000000000
+      internalID: 3897063555338779977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 0
+        width: 482
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d6d25eefbaa1e50800000000000000
+      internalID: 6780921300214705500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 0
+        width: 498
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a39369a8b454cb0800000000000000
+      internalID: -4880411562588161405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7151
+        y: 0
+        width: 11281
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1837465cbda39da0800000000000000
+      internalID: -5939212459158587365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 431
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c1e6cb4d9d18e30800000000000000
+      internalID: 4504120610064833549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 258
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb033f50c336be0800000000000000
+      internalID: -1485277455849570357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 431
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531d90ba841f36d0800000000000000
+      internalID: -3008663440159075497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 447
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88afcc918b36116e0800000000000000
+      internalID: -1868602728024049016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 447
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac7e5af9e3a9120800000000000000
+      internalID: 2421316605069216391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 423
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28c2e631bf3e8100800000000000000
+      internalID: 112097071093434410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 423
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8658cb283a34750800000000000000
+      internalID: 6288049286643280064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 407
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37958bdb48232cfb0800000000000000
+      internalID: -4629081921283401357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 407
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e472c58f269617e0800000000000000
+      internalID: -1795082270608821023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 6015
+        y: 407
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d3ce0695b5ba9f0800000000000000
+      internalID: -456170497811661477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aa692e38940b1a0800000000000000
+      internalID: -6795851006911010267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 391
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8df0b449524c180800000000000000
+      internalID: -9096104028536842065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90005fd511c01e1d0800000000000000
+      internalID: -3323361781292400631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8adda1a748d07f10800000000000000
+      internalID: 2265548414734162570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4e35469223130b0800000000000000
+      internalID: -5750760095817145167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce23888fd1a9f9f0800000000000000
+      internalID: -434137907624464691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 0
+        width: 258
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee51cb276ad238c0800000000000000
+      internalID: -4020911380637851926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36bfa5da6422ba0800000000000000
+      internalID: -6115247633646001160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 343
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49317959db697d30800000000000000
+      internalID: 4429690289748261195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 343
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ce5769f97081720800000000000000
+      internalID: 2817009948925750396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3acb8f697bcdbd0800000000000000
+      internalID: -2604004625480899674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 303
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f7c3b2c880f9f30800000000000000
+      internalID: 4584392343800282880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 303
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a8e396efeadc710800000000000000
+      internalID: 1715219440808659517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 5591
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2095564614eef10800000000000000
+      internalID: 2300848359085769444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 6103
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143dfd85fdaeba5d0800000000000000
+      internalID: -3050086077623708863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dbf5addf1fb69b0800000000000000
+      internalID: -5085705281592115892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4786f6dd9f52bf50800000000000000
+      internalID: 6895679110978635598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6645fb59ee941f440800000000000000
+      internalID: 4967833153029756006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 5591
+        y: 287
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e065aae2f80ba70800000000000000
+      internalID: 8840723499117317659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 6103
+        y: 287
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890039897ec118b30800000000000000
+      internalID: 4287740101256216728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 287
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a6cce6e66ed2010800000000000000
+      internalID: 1165841240538507827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 231
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4de190747ed814c0800000000000000
+      internalID: -4316455651148436149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 231
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af30a766fff3ef230800000000000000
+      internalID: 3674444712149386234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 0
+        width: 258
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829713e171f235eb0800000000000000
+      internalID: -4732387007098947288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 231
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58acd8151e9eb500800000000000000
+      internalID: 413942029213280350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 247
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85a68af24f0a95d0800000000000000
+      internalID: -3055112616872073843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 247
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab47dc8551a45810800000000000000
+      internalID: 1753203543761177517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 6623
+        y: 247
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dbb72db9f6eb6f0800000000000000
+      internalID: -666972979762315917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 199
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad84ce4a66db31d0800000000000000
+      internalID: -3369864144080302675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 199
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff2dc73e9f6d7d0800000000000000
+      internalID: -2893850955091869709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 127
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5636ad99a5bab2e0800000000000000
+      internalID: -2109173735370639781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 5575
+        y: 159
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da613e3cce41550800000000000000
+      internalID: 6130785318830779756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 159
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48afabd8adfc6f50800000000000000
+      internalID: 6876149632769960011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 159
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ef2a8e4d7edc30800000000000000
+      internalID: 4386080863384757522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc270a6b655ac8ab0800000000000000
+      internalID: -5004443294065724725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c447881d952cb9590800000000000000
+      internalID: -7666320249644878772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 127
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f9b480dec090730800000000000000
+      internalID: 3965715159062388549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 0
+        width: 250
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cc91efae5337040800000000000000
+      internalID: 4644114924150836231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6acfa1dade0be0c0800000000000000
+      internalID: -4545523065916765589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59816b3b11c438d0800000000000000
+      internalID: -2867454740023637670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 127
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c92948345c77820800000000000000
+      internalID: 2916016177523367058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9debfc30c816600800000000000000
+      internalID: 459802584966683045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 226
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567021621682cc180800000000000000
+      internalID: -9093849149852219547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 127
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104e41400407f99b0800000000000000
+      internalID: -5071211235147193343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 47
+        width: 178
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc969a08802504e0800000000000000
+      internalID: -2016169489513145092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 135
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5fd7cad3624200800000000000000
+      internalID: 162802327846083165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d364ffacb0a90a80800000000000000
+      internalID: -8500086089418775599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a1b5995b6e6c910800000000000000
+      internalID: 1857425563973261858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 63
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d82b30e0065a10800000000000000
+      internalID: 1897705256048449023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 63
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d017b6ccd3759390800000000000000
+      internalID: -7812210586540371759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 47
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde314f7a2e4f4ab0800000000000000
+      internalID: -5021709115064238371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 6039
+        y: 87
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8b3a9db8d615d0800000000000000
+      internalID: -3092045785295254599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b49f53bf06df3660800000000000000
+      internalID: 7367842878323659957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 154
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90cdc6d6774fcf0800000000000000
+      internalID: -219419169972811268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d016a05903a2860800000000000000
+      internalID: 7505865145648745789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 47
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d404ecbc84671d50800000000000000
+      internalID: 6707940725618902224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 178
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4887c1a0303b00800000000000000
+      internalID: 806197804694784660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c4d413d15edf80800000000000000
+      internalID: -8079930714426652280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 31
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5765c0ed34de640800000000000000
+      internalID: 5110815773104174517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 23
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278b6089197f9350800000000000000
+      internalID: 6025667976880686881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 23
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0bdff267ed87fa0800000000000000
+      internalID: -5802643520674221911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_doom-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6988bd167ac98c390800000000000000
+      internalID: -7797810512076765034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1218 @@
+fileFormatVersion: 2
+guid: 9f240866d71842c408d567951a4d40b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7627235845764453514
+    second: skeleton_default_walk_NEE_22.5_4_0
+  - first:
+      213: -5458148372281217046
+    second: skeleton_default_walk_NEE_22.5_4_1
+  - first:
+      213: -3981586107248437388
+    second: skeleton_default_walk_NEE_22.5_4_2
+  - first:
+      213: 7966408807991795133
+    second: skeleton_default_walk_NEE_22.5_4_3
+  - first:
+      213: -2967184756701310741
+    second: skeleton_default_walk_NEE_22.5_4_4
+  - first:
+      213: 3951023311669761806
+    second: skeleton_default_walk_NEE_22.5_4_5
+  - first:
+      213: -9069214704520559944
+    second: skeleton_default_walk_NEE_22.5_4_6
+  - first:
+      213: 7661642507467468203
+    second: skeleton_default_walk_NEE_22.5_4_7
+  - first:
+      213: 8543520432777559299
+    second: skeleton_default_walk_NEE_22.5_4_8
+  - first:
+      213: -2405219432263777545
+    second: skeleton_default_walk_NEE_22.5_4_9
+  - first:
+      213: 9123669945050996758
+    second: skeleton_default_walk_NEE_22.5_4_10
+  - first:
+      213: 6817718776578981891
+    second: skeleton_default_walk_NEE_22.5_4_11
+  - first:
+      213: 4665493241474946456
+    second: skeleton_default_walk_NEE_22.5_4_12
+  - first:
+      213: -8314315375330225211
+    second: skeleton_default_walk_NEE_22.5_4_13
+  - first:
+      213: -5772646433936512707
+    second: skeleton_default_walk_NEE_22.5_4_14
+  - first:
+      213: -8210450459025436111
+    second: skeleton_default_walk_NEE_22.5_4_15
+  - first:
+      213: -798038077013174567
+    second: skeleton_default_walk_NEE_22.5_4_16
+  - first:
+      213: -7143521685658128704
+    second: skeleton_default_walk_NEE_22.5_4_17
+  - first:
+      213: 3221519045237215629
+    second: skeleton_default_walk_NEE_22.5_4_18
+  - first:
+      213: -3544465579660456628
+    second: skeleton_default_walk_NEE_22.5_4_19
+  - first:
+      213: 7689756244966758207
+    second: skeleton_default_walk_NEE_22.5_4_20
+  - first:
+      213: -2310679239050788553
+    second: skeleton_default_walk_NEE_22.5_4_21
+  - first:
+      213: 9096393974072699487
+    second: skeleton_default_walk_NEE_22.5_4_22
+  - first:
+      213: -2886897762152789194
+    second: skeleton_default_walk_NEE_22.5_4_23
+  - first:
+      213: 1605993480125046510
+    second: skeleton_default_walk_NEE_22.5_4_24
+  - first:
+      213: -5292334947300998219
+    second: skeleton_default_walk_NEE_22.5_4_25
+  - first:
+      213: 7470424849340246752
+    second: skeleton_default_walk_NEE_22.5_4_26
+  - first:
+      213: -2584818233717661990
+    second: skeleton_default_walk_NEE_22.5_4_27
+  - first:
+      213: -8100398312757281671
+    second: skeleton_default_walk_NEE_22.5_4_28
+  - first:
+      213: 5575993022119700149
+    second: skeleton_default_walk_NEE_22.5_4_29
+  - first:
+      213: 8583325867431048185
+    second: skeleton_default_walk_NEE_22.5_4_30
+  - first:
+      213: -5523770999301250534
+    second: skeleton_default_walk_NEE_22.5_4_31
+  - first:
+      213: -8176271828881506025
+    second: skeleton_default_walk_NEE_22.5_4_32
+  - first:
+      213: -6441317510487443869
+    second: skeleton_default_walk_NEE_22.5_4_33
+  - first:
+      213: -3778901184870850657
+    second: skeleton_default_walk_NEE_22.5_4_34
+  - first:
+      213: -4764274022784946677
+    second: skeleton_default_walk_NEE_22.5_4_35
+  - first:
+      213: -3007551065132902316
+    second: skeleton_default_walk_NEE_22.5_4_36
+  - first:
+      213: 7587734513835950109
+    second: skeleton_default_walk_NEE_22.5_4_37
+  - first:
+      213: -7467376155527985837
+    second: skeleton_default_walk_NEE_22.5_4_38
+  - first:
+      213: -8832629294780001777
+    second: skeleton_default_walk_NEE_22.5_4_39
+  - first:
+      213: 1851047989043742422
+    second: skeleton_default_walk_NEE_22.5_4_40
+  - first:
+      213: -476971688164074532
+    second: skeleton_default_walk_NEE_22.5_4_41
+  - first:
+      213: -2045046808619327137
+    second: skeleton_default_walk_NEE_22.5_4_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849ae4479269d960800000000000000
+      internalID: 7627235845764453514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 139
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2dc259f2c044b0800000000000000
+      internalID: -5458148372281217046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 47
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47793d2e7809eb8c0800000000000000
+      internalID: -3981586107248437388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd4ef5a9e5e8e60800000000000000
+      internalID: 7966408807991795133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 157
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be05dd14f2172d6d0800000000000000
+      internalID: -2967184756701310741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071d5fb4cad4d630800000000000000
+      internalID: 3951023311669761806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b28d49e64da32280800000000000000
+      internalID: -9069214704520559944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bada1a5744f935a60800000000000000
+      internalID: 7661642507467468203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d7ffe619ea09670800000000000000
+      internalID: 8543520432777559299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 157
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f20d057ba1fe9ed0800000000000000
+      internalID: -2405219432263777545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 127
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6102caac979cd9e70800000000000000
+      internalID: 9123669945050996758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 119
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30040800b176d9e50800000000000000
+      internalID: 6817718776578981891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 110
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895991062692fb040800000000000000
+      internalID: 4665493241474946456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 140
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c39fde973e9d9c80800000000000000
+      internalID: -8314315375330225211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 175
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e94337a073efa0800000000000000
+      internalID: -5772646433936512707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 85
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13298dfeece9e0e80800000000000000
+      internalID: -8210450459025436111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 83
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6d46ed89ccce4f0800000000000000
+      internalID: -798038077013174567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce2c09ffdc1ddc90800000000000000
+      internalID: -7143521685658128704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d811588d08225bc20800000000000000
+      internalID: 3221519045237215629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 86
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4dbda5578fcec0800000000000000
+      internalID: -3544465579660456628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 70
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d59e009087ba60800000000000000
+      internalID: 7689756244966758207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731028e7971deefd0800000000000000
+      internalID: -2310679239050788553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a6b99ef12ec3e70800000000000000
+      internalID: 9096393974072699487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b4300e7cdafe7d0800000000000000
+      internalID: -2886897762152789194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee527eaf82a94610800000000000000
+      internalID: 1605993480125046510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b30db9c769dd86b0800000000000000
+      internalID: -5292334947300998219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 178
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea2d2a02d74ca760800000000000000
+      internalID: 7470424849340246752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 88
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade5e4ae281e02cd0800000000000000
+      internalID: -2584818233717661990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cbdecf6aa959f80800000000000000
+      internalID: -8100398312757281671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b660895c18e16d40800000000000000
+      internalID: 5575993022119700149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f336a766691e1770800000000000000
+      internalID: 8583325867431048185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 142
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a126b06da8f9753b0800000000000000
+      internalID: -5523770999301250534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7110c74671c088e80800000000000000
+      internalID: -8176271828881506025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 107
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36674ed0ad7db96a0800000000000000
+      internalID: -6441317510487443869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f5872d465ae8bc0800000000000000
+      internalID: -3778901184870850657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 122
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e284bb406e1edb0800000000000000
+      internalID: -4764274022784946677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 138
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458d7eead380346d0800000000000000
+      internalID: -3007551065132902316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c92bb65c0d4960800000000000000
+      internalID: 7587734513835950109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355488d43fc8e5890800000000000000
+      internalID: -7467376155527985837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02dde324723c6580800000000000000
+      internalID: -8832629294780001777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d64729b65e30b910800000000000000
+      internalID: 1851047989043742422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 131
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbdf07d6c47169f0800000000000000
+      internalID: -476971688164074532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_walk_NEE_22.5_4_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51e23f33c88e93e0800000000000000
+      internalID: -2045046808619327137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

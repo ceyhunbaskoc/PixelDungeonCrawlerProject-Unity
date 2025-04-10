@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: bd3ad48ec583fcd4abd00069b6a4813a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1767952249032184074
+    second: warrior_armed_walk_SE_315.0_6_0
+  - first:
+      213: -346989237210470039
+    second: warrior_armed_walk_SE_315.0_6_1
+  - first:
+      213: -6313735537795003446
+    second: warrior_armed_walk_SE_315.0_6_2
+  - first:
+      213: 3862063417346312247
+    second: warrior_armed_walk_SE_315.0_6_3
+  - first:
+      213: -915755203724400602
+    second: warrior_armed_walk_SE_315.0_6_4
+  - first:
+      213: 3080658716167263419
+    second: warrior_armed_walk_SE_315.0_6_5
+  - first:
+      213: 3969474777305235349
+    second: warrior_armed_walk_SE_315.0_6_6
+  - first:
+      213: 1913169096428680673
+    second: warrior_armed_walk_SE_315.0_6_7
+  - first:
+      213: 7554565346142941475
+    second: warrior_armed_walk_SE_315.0_6_8
+  - first:
+      213: 1561390294840287839
+    second: warrior_armed_walk_SE_315.0_6_9
+  - first:
+      213: 6723949208200977760
+    second: warrior_armed_walk_SE_315.0_6_10
+  - first:
+      213: -1489455331735902552
+    second: warrior_armed_walk_SE_315.0_6_11
+  - first:
+      213: -4649093046128222280
+    second: warrior_armed_walk_SE_315.0_6_12
+  - first:
+      213: 1884785955782253108
+    second: warrior_armed_walk_SE_315.0_6_13
+  - first:
+      213: 2491999581468427480
+    second: warrior_armed_walk_SE_315.0_6_14
+  - first:
+      213: -3268613301048917218
+    second: warrior_armed_walk_SE_315.0_6_15
+  - first:
+      213: -2917152778519092288
+    second: warrior_armed_walk_SE_315.0_6_16
+  - first:
+      213: 7704883431664603033
+    second: warrior_armed_walk_SE_315.0_6_17
+  - first:
+      213: -6245626465030471438
+    second: warrior_armed_walk_SE_315.0_6_18
+  - first:
+      213: -6501892490247443657
+    second: warrior_armed_walk_SE_315.0_6_19
+  - first:
+      213: 5608478772227836277
+    second: warrior_armed_walk_SE_315.0_6_20
+  - first:
+      213: 9213561677753886892
+    second: warrior_armed_walk_SE_315.0_6_21
+  - first:
+      213: -427279256432963311
+    second: warrior_armed_walk_SE_315.0_6_22
+  - first:
+      213: -8586165364479723974
+    second: warrior_armed_walk_SE_315.0_6_23
+  - first:
+      213: -1371757398567142055
+    second: warrior_armed_walk_SE_315.0_6_24
+  - first:
+      213: 8185484025275182452
+    second: warrior_armed_walk_SE_315.0_6_25
+  - first:
+      213: -6009878854492524502
+    second: warrior_armed_walk_SE_315.0_6_26
+  - first:
+      213: -4906878372823572047
+    second: warrior_armed_walk_SE_315.0_6_27
+  - first:
+      213: -4597107843626714003
+    second: warrior_armed_walk_SE_315.0_6_28
+  - first:
+      213: 652184117915090238
+    second: warrior_armed_walk_SE_315.0_6_29
+  - first:
+      213: -6240165925484395760
+    second: warrior_armed_walk_SE_315.0_6_30
+  - first:
+      213: 8614508253449898642
+    second: warrior_armed_walk_SE_315.0_6_31
+  - first:
+      213: 3831245679648568484
+    second: warrior_armed_walk_SE_315.0_6_32
+  - first:
+      213: -8066761331449456658
+    second: warrior_armed_walk_SE_315.0_6_33
+  - first:
+      213: -5079931800379963765
+    second: warrior_armed_walk_SE_315.0_6_34
+  - first:
+      213: 6142797998448077916
+    second: warrior_armed_walk_SE_315.0_6_35
+  - first:
+      213: 8892232478236716698
+    second: warrior_armed_walk_SE_315.0_6_36
+  - first:
+      213: 5269078730182367727
+    second: warrior_armed_walk_SE_315.0_6_37
+  - first:
+      213: 8602855258015190867
+    second: warrior_armed_walk_SE_315.0_6_38
+  - first:
+      213: 6649917928092756838
+    second: warrior_armed_walk_SE_315.0_6_39
+  - first:
+      213: 1519489756032672395
+    second: warrior_armed_walk_SE_315.0_6_40
+  - first:
+      213: 7133868766088775580
+    second: warrior_armed_walk_SE_315.0_6_41
+  - first:
+      213: -8661862950153408430
+    second: warrior_armed_walk_SE_315.0_6_42
+  - first:
+      213: 3055959630265725818
+    second: warrior_armed_walk_SE_315.0_6_43
+  - first:
+      213: -1438145628331727989
+    second: warrior_armed_walk_SE_315.0_6_44
+  - first:
+      213: 3667643137696319500
+    second: warrior_armed_walk_SE_315.0_6_45
+  - first:
+      213: -874455097310819052
+    second: warrior_armed_walk_SE_315.0_6_46
+  - first:
+      213: -2084545800466066135
+    second: warrior_armed_walk_SE_315.0_6_47
+  - first:
+      213: 539781804054825052
+    second: warrior_armed_walk_SE_315.0_6_48
+  - first:
+      213: -3245305431137729195
+    second: warrior_armed_walk_SE_315.0_6_49
+  - first:
+      213: -3019916991662922262
+    second: warrior_armed_walk_SE_315.0_6_50
+  - first:
+      213: -1496947868453965940
+    second: warrior_armed_walk_SE_315.0_6_51
+  - first:
+      213: 3075051123186045470
+    second: warrior_armed_walk_SE_315.0_6_52
+  - first:
+      213: 1169372502312628068
+    second: warrior_armed_walk_SE_315.0_6_53
+  - first:
+      213: 1238507382891452245
+    second: warrior_armed_walk_SE_315.0_6_54
+  - first:
+      213: 448145100391198494
+    second: warrior_armed_walk_SE_315.0_6_55
+  - first:
+      213: 623844862168730891
+    second: warrior_armed_walk_SE_315.0_6_56
+  - first:
+      213: -1167843949380885023
+    second: warrior_armed_walk_SE_315.0_6_57
+  - first:
+      213: 781935190650165978
+    second: warrior_armed_walk_SE_315.0_6_58
+  - first:
+      213: -6203549273215623945
+    second: warrior_armed_walk_SE_315.0_6_59
+  - first:
+      213: 3438603707155202635
+    second: warrior_armed_walk_SE_315.0_6_60
+  - first:
+      213: 8579185314892076973
+    second: warrior_armed_walk_SE_315.0_6_61
+  - first:
+      213: -9082338168061034899
+    second: warrior_armed_walk_SE_315.0_6_62
+  - first:
+      213: -799006462070104637
+    second: warrior_armed_walk_SE_315.0_6_63
+  - first:
+      213: 9138995373223957343
+    second: warrior_armed_walk_SE_315.0_6_64
+  - first:
+      213: -8879337882034830916
+    second: warrior_armed_walk_SE_315.0_6_65
+  - first:
+      213: -2491584692067014652
+    second: warrior_armed_walk_SE_315.0_6_66
+  - first:
+      213: 3717952213341288713
+    second: warrior_armed_walk_SE_315.0_6_67
+  - first:
+      213: 4289556642277127344
+    second: warrior_armed_walk_SE_315.0_6_68
+  - first:
+      213: 3133347053499280140
+    second: warrior_armed_walk_SE_315.0_6_69
+  - first:
+      213: 5575820767185512644
+    second: warrior_armed_walk_SE_315.0_6_70
+  - first:
+      213: -6954469998266610206
+    second: warrior_armed_walk_SE_315.0_6_71
+  - first:
+      213: 163443592505430193
+    second: warrior_armed_walk_SE_315.0_6_72
+  - first:
+      213: -3585339226758462930
+    second: warrior_armed_walk_SE_315.0_6_73
+  - first:
+      213: 6554875545638977118
+    second: warrior_armed_walk_SE_315.0_6_74
+  - first:
+      213: 4903998736617530678
+    second: warrior_armed_walk_SE_315.0_6_75
+  - first:
+      213: -5982828033071550858
+    second: warrior_armed_walk_SE_315.0_6_76
+  - first:
+      213: -1575937267718043001
+    second: warrior_armed_walk_SE_315.0_6_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 158
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019a671437098810800000000000000
+      internalID: 1767952249032184074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969af2f802f3f2bf0800000000000000
+      internalID: -346989237210470039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 105
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb08ffdafa1168a0800000000000000
+      internalID: -6313735537795003446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 210
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73845fa473ec89530800000000000000
+      internalID: 3862063417346312247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 207
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628aacc7e759a43f0800000000000000
+      internalID: -915755203724400602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 199
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45c53c7c2b0ca20800000000000000
+      internalID: 3080658716167263419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 203
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fb62e5748661730800000000000000
+      internalID: 3969474777305235349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 199
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f2e32821fc8a10800000000000000
+      internalID: 1913169096428680673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 234
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3217351182537d860800000000000000
+      internalID: 7554565346142941475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 196
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a2b7533c2ba510800000000000000
+      internalID: 1561390294840287839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 185
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d969a0e24405d50800000000000000
+      internalID: 6723949208200977760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e11b6444645be0800000000000000
+      internalID: -1489455331735902552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfd9c9a18a1b7fb0800000000000000
+      internalID: -4649093046128222280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 195
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43adb0c37da182a10800000000000000
+      internalID: 1884785955782253108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 199
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d409d98a6c559220800000000000000
+      internalID: 2491999581468427480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13ccd2458d83a2d0800000000000000
+      internalID: -3268613301048917218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c363d0f0013487d0800000000000000
+      internalID: -2917152778519092288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 179
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f492ca8ae3dea60800000000000000
+      internalID: 7704883431664603033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 176
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0841022d31359a0800000000000000
+      internalID: -6245626465030471438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b65078a33a4c5a0800000000000000
+      internalID: -6501892490247443657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 157
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57985f47ab155dd40800000000000000
+      internalID: 5608478772227836277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca82ca6c7852ddf70800000000000000
+      internalID: 9213561677753886892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 165
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1119b64b7cff11af0800000000000000
+      internalID: -427279256432963311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367c6ba710d7d880800000000000000
+      internalID: -8586165364479723974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 158
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d3464f9e986fce0800000000000000
+      internalID: -1371757398567142055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 161
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d69293a5ea89170800000000000000
+      internalID: 8185484025275182452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 158
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2077d6060f989ca0800000000000000
+      internalID: -6009878854492524502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1edcf1e1447ebb0800000000000000
+      internalID: -4906878372823572047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cb772d5cac330c0800000000000000
+      internalID: -4597107843626714003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 141
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dfa74fff50d0900800000000000000
+      internalID: 652184117915090238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 149
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0138100172a7669a0800000000000000
+      internalID: -6240165925484395760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 148
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a4d896d91ec8770800000000000000
+      internalID: 8614508253449898642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 143
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f3b695a15b2530800000000000000
+      internalID: 3831245679648568484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7191ffe4b1d0090800000000000000
+      internalID: -8066761331449456658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 140
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86442331f47089b0800000000000000
+      internalID: -5079931800379963765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c6a70db3a9f3550800000000000000
+      internalID: 6142797998448077916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ead7d635e876b70800000000000000
+      internalID: 8892232478236716698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 149
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9161630378f1940800000000000000
+      internalID: 5269078730182367727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 133
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fc81cf64b736770800000000000000
+      internalID: 8602855258015190867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 141
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b68717f11494c50800000000000000
+      internalID: 6649917928092756838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b822c2ce1ef461510800000000000000
+      internalID: 1519489756032672395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_41
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 133
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c9fc88d7900360800000000000000
+      internalID: 7133868766088775580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2503df21a81eac780800000000000000
+      internalID: -8661862950153408430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 133
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a733ce1b713f86a20800000000000000
+      internalID: 3055959630265725818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 30
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83a100bb2eaa0ce0800000000000000
+      internalID: -1438145628331727989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08c941700616e230800000000000000
+      internalID: 3667643137696319500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 123
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d42c8d8bf4dd3f0800000000000000
+      internalID: -874455097310819052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 123
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925103d83a43213e0800000000000000
+      internalID: -2084545800466066135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5848eed0b0bd7700800000000000000
+      internalID: 539781804054825052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 119
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555c36d97eb56f2d0800000000000000
+      internalID: -3245305431137729195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 130
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5e3cc0f791716d0800000000000000
+      internalID: -3019916991662922262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fe58548d5c93be0800000000000000
+      internalID: -1496947868453965940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e129ba744b6ccaa20800000000000000
+      internalID: 3075051123186045470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 106
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f247268127a3010800000000000000
+      internalID: 1169372502312628068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55791f027ef003110800000000000000
+      internalID: 1238507382891452245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 110
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f26ac2891283600800000000000000
+      internalID: 448145100391198494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 118
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d058cc89758a800800000000000000
+      internalID: 623844862168730891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e520149d1cfacfe0800000000000000
+      internalID: -1167843949380885023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 106
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada941cb9edf9da00800000000000000
+      internalID: 781935190650165978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_59
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc9957cdc098e9a0800000000000000
+      internalID: -6203549273215623945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c3586adf58bf20800000000000000
+      internalID: 3438603707155202635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 103
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7d364e6936f0770800000000000000
+      internalID: 8579185314892076973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 107
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6effb27e8d05f180800000000000000
+      internalID: -9082338168061034899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 97
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd1172bdb59e4f0800000000000000
+      internalID: -799006462070104637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53d3f81fdb34de70800000000000000
+      internalID: 9138995373223957343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb105a4bd3146c480800000000000000
+      internalID: -8879337882034830916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4086b8d6cec1c6dd0800000000000000
+      internalID: -2491584692067014652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909b518e6d1d89330800000000000000
+      internalID: 3717952213341288713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_68
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b478d20a01978b30800000000000000
+      internalID: 4289556642277127344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b67d14b82eb7b20800000000000000
+      internalID: 3133347053499280140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8a65f127b416d40800000000000000
+      internalID: 5575820767185512644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 59
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed05380262cc7f90800000000000000
+      internalID: -6954469998266610206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 59
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b09918d41ba44200800000000000000
+      internalID: 163443592505430193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c9cd18f05e3ec0800000000000000
+      internalID: -3585339226758462930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_74
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 57
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb4bc549897fa50800000000000000
+      internalID: 6554875545638977118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356d035ed08e0440800000000000000
+      internalID: 4903998736617530678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e65803a99b8fca0800000000000000
+      internalID: -5982828033071550858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_armed_walk_SE_315.0_6_77
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 64
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78acd599765212ae0800000000000000
+      internalID: -1575937267718043001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
