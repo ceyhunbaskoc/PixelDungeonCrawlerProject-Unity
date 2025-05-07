@@ -1,4 +1,4 @@
-# 🎮 Pixel Dungeon Crawler Project (Still Developing)
+# 🎮 Pixel Dungeon Rogue Like Project (Still Developing)
 
 [![Unity Version](https://img.shields.io/badge/Unity-6+-black.svg?logo=unity)]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://img.shields.io/badge/License-MIT-yellow.svg)]
